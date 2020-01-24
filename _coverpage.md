@@ -7,5 +7,5 @@ LOGO GOES HERE
 - Community of researchers working on ancient metagenomics
 - Regular discussion workshops
 
-[Home](https://spaam-workshop.github.io/)
+[About](README.md)
 [Next Event](spaam2/README.md)
