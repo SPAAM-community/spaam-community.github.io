@@ -7,5 +7,6 @@ LOGO GOES HERE
 - Community of researchers working on ancient metagenomics
 - Regular discussion workshops
 
-[About](README.md)
+Scroll down for more information
+
 [Next Event](spaam2/README.md)
