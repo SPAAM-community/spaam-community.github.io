@@ -1,3 +1,3 @@
-# Standards Precautions and Advances in Ancient Metagenomics
+# Standards Precautions and Advances in Metagenomics
 
-About...
+> An awesome project.
