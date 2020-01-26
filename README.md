@@ -1,3 +1,5 @@
+<title>SPAAM</title>
+
 # Standards Precautions and Advances in Metagenomics
 
 ## About Us
