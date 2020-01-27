@@ -8,7 +8,7 @@ A primary goal of SPAAM2 is to be inclusive to the largest number of contributor
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-All attendees at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe and positive environment for everybody.
+All attendees at our conference are required to agree to and comply with with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe and positive environment for everybody.
 
 ### 2. Citizenship
 
@@ -16,7 +16,7 @@ A supplemental goal of this Code of Conduct is to increase 'citizenship' by enco
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know (either in person, Slack, or email - see section 8).
 
 ### 3. Expected Behavior
 
@@ -55,7 +55,7 @@ If an attendee engages in unacceptable behavior, the community organizers may ta
 
 ### 6. Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify any of the [event organisers](#contact-info) as soon as possible. Organisers will ensure that the report can be given in a safe space, and will be recorded as respectfully as possible.
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify any of the event organisers (see section 8) as soon as possible. Organisers will ensure that the report can be given in a safe space, and will be recorded as respectfully as possible.
 
 Additionally, organizers are available to help attendees engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
@@ -65,13 +65,15 @@ We expect all participants (contributors, paid or otherwise, and other guests) t
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
-### 9. Contact info
+### 8. Contact info
 
 SPAAM2 Organisers:
 
-James Fellows Yates (MPI-SHH, Jena. [fellows@shh.mpg.de](fellows@shh.mpg.de))
+James Fellows Yates (MPI-SHH, Jena, fellows@shh.mpg.de)
 
-### 10. License and attribution
+Irina Velsko (MPI-SHH, Jena, velsko@shh.mpg.de)
+
+### 9. License and attribution
 
 This is modified after the Code of Conduct distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) and [Conf Code of Conduct](https://confcodeofconduct.com/) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
