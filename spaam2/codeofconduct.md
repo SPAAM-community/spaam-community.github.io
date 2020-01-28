@@ -73,6 +73,8 @@ James Fellows Yates (MPI-SHH, Jena, fellows@shh.mpg.de)
 
 Irina Velsko (MPI-SHH, Jena, velsko@shh.mpg.de)
 
+Åshild Vågene (Globe Institute, University of Copenhagen, ashild.vagene@sund.ku.dk)
+
 ### 9. License and attribution
 
 This is modified after the Code of Conduct distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) and [Conf Code of Conduct](https://confcodeofconduct.com/) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
