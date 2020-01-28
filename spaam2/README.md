@@ -38,9 +38,22 @@ You can register your interest in attending the workshop until **31st January 20
 Alternatively, you can contact any of the [organisers](#organising-commitee) to register.
 
 ### Organising Commitee
-James Fellows Yates (MPI-SHH, Jena. Email: fellows@shh.mpg.de)
 
-Irina Velsko (MPI-SHH, Jena)
+<!--- Ugly hack but it works -->
+<div>
+  <img src="https://www.shh.mpg.de/employee_images/45083-1580056306?t=eyJoZWlnaHQiOjE2Niwid2lkdGgiOjE0MCwiZml0IjoiY3JvcCJ9--7046adb1c303f84660058687528556e0bf7e71b4" alt="James Fellows Yates" width="70" height="83">
+  <img src="https://www.shh.mpg.de/employee_images/95205-1579004652?t=eyJoZWlnaHQiOjE2Niwid2lkdGgiOjE0MCwiZml0IjoiY3JvcCJ9--7046adb1c303f84660058687528556e0bf7e71b4" alt="Irina Velsko" width="70" height="83">
+  <img src="https://pbs.twimg.com/profile_images/1204403803128250369/Yf7D9RJl_400x400.jpg" alt="Åshild Vågene" width="83" height="83">
+</div>
+<div>
+  &nbsp;&nbsp;James&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ash
+</div>
+
+---
+
+James Fellows Yates (MPI-SHH, Jena, fellows@shh.mpg.de)
+
+Irina Velsko (MPI-SHH, Jena) 
 
 Alexander Hübner (MPI-SHH, Jena)
 
