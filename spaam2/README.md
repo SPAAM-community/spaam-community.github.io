@@ -33,9 +33,7 @@ While we cannot provide financial support, we aim make the workshop as accessibl
 
 ### Registration of Interest
 
-You can register your interest in attending the workshop until **31st January 2020** via [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSfiZDn7Pbl5aEUluBPZjQTqGgtr0Im30HzRyC4iq4eaf6ASag/viewform). 
-
-Alternatively, you can contact any of the [organisers](#organising-commitee) to register.
+The register of interest form is not **CLOSED**. We will be contacting everyone who is interesed in the near future.
 
 ### Organising Commitee
 
