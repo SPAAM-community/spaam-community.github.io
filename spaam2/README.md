@@ -33,7 +33,7 @@ While we cannot provide financial support, we aim make the workshop as accessibl
 
 ### Registration of Interest
 
-The register of interest form is not **CLOSED**. We will be contacting everyone who is interesed in the near future.
+The register of interest form is now **CLOSED**. We will be contacting everyone who is interesed in the near future.
 
 ### Organising Commitee
 
