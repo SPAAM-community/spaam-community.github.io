@@ -14,8 +14,9 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'SPAAM',
+      name: 'SPAAM-workshop community',
       repo: 'https://github.com/SPAAM-workshop/spaam-workshop.github.io',
+      homepage: 'home.md',
       loadSidebar: true,
       coverpage: true,
       onlyCover: false,
@@ -30,11 +31,21 @@
         // Headline depth, 1 - 6
         depth: 3,
         hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+      },
+
+      footer: {
+        copy: '<span></span>',
+        auth: '',
+        pre: '<hr/>',
+        style: 'text-align: right;',
+        style: 'className'
       }
+
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="https://unpkg.com/docsify/lib/plugins/search.js"></script>
   <script src="//unpkg.com/docsify-fontawesome/dist/docsify-fontawesome.min.js"></script>
+  <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
 </body>
 </html>

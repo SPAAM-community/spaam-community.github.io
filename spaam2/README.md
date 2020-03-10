@@ -38,27 +38,27 @@ The register of interest form is now **CLOSED**. We will be contacting everyone 
 ### Organising Commitee
 
 <!--- Ugly hack but it works -->
-<div>
   <img src="https://www.shh.mpg.de/employee_images/45083-1580056306?t=eyJoZWlnaHQiOjE2Niwid2lkdGgiOjE0MCwiZml0IjoiY3JvcCJ9--7046adb1c303f84660058687528556e0bf7e71b4" alt="James Fellows Yates" width="70" height="83">
   <img src="https://www.shh.mpg.de/employee_images/95205-1579004652?t=eyJoZWlnaHQiOjE2Niwid2lkdGgiOjE0MCwiZml0IjoiY3JvcCJ9--7046adb1c303f84660058687528556e0bf7e71b4" alt="Irina Velsko" width="70" height="83">
   <img src="https://pbs.twimg.com/profile_images/1204403803128250369/Yf7D9RJl_400x400.jpg" alt="Åshild Vågene" width="83" height="83">
+  <img src="https://isba9.sciencesconf.org/data/pages/clio.png" alt="Clio Der Sarkissian" width="65" height="83">
+  <img src="https://www.holofood.eu/files/Portraits/Anna%20-4-.jpg" alt="Anna Fotakis" width="120" height="83">
+  <img src="https://www.shh.mpg.de/employee_images/95812-1563799491?t=eyJ3aWR0aCI6MjEyLCJoZWlnaHQiOjI3MiwiZml0IjoiY3JvcCJ9--c0c64f6fa687c0cbabebf449f6f6744f1fcdd5f3" alt="Alex Hübner" width="65" height="83">
 </div>
 <div>
-  &nbsp;&nbsp;James&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ash
+  &nbsp;&nbsp;&nbsp;&nbsp;James&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Irina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ash&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Clio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alex
 </div>
 
 ---
 
 James Fellows Yates (MPI-SHH, Jena, fellows@shh.mpg.de)
 
-Irina Velsko (MPI-SHH, Jena) 
+Irina Velsko (MPI-SHH, Jena, velsko@shh.mpg.de)
 
-Alexander Hübner (MPI-SHH, Jena)
+Åshild (Ash) Vågene (Globe Institute, Copenhagen, ashild.vagene@sund.ku.dk)
 
-Andaine Seguin-Orlando (UMR5288, CNRS, University  Toulouse 3)
+Clio der Sarkissian (UMR5288-CNRS, Toulouse, clio.dersarkissian@univ-tlse3.fr)
 
-Clio Der Sarkissian (UMR5288, CNRS, University of Toulouse 3)
+Anna Fotakis (Globe Institute, Copenhagen, anna.fotakis@sund.ku.dk)
 
-Åshild Vågene (Globe Institute, University of Copenhagen)
-
-Anna Fotakis (Globe Institute, University of Copenhagen)
+Alex Hübner (MPI-SHH, Jena, huebner@shh.mpg.de)
