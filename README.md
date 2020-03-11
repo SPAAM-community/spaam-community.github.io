@@ -1,6 +1,6 @@
-# poseidon-framework.github.io 
+# spaam-workshop.github.io 
 
-Repository for the [poseidon-framework.github.io](https://poseidon-framework.github.io) website.  
+Repository for the [spaam-workshop.github.io](https://spaam-workshop.github.io) website.  
 Built with [Docsify](https://docsify.js.org).
 
 
