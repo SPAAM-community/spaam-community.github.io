@@ -8,10 +8,8 @@
 
 ### Where?
 
-**Provisional**
-
 Université Fédérale de Toulouse,
-41 allée Jules Guesde
+41 allée Jules Guesde,
 Toulouse
 FRANCE
 
@@ -33,7 +31,7 @@ While we cannot provide financial support, we aim make the workshop as accessibl
 
 ### Registration of Interest
 
-The register of interest form is now **CLOSED**. We will be contacting everyone who is interesed in the near future.
+The register of interest form is now **CLOSED**. We will be contacting everyone who is interested in the near future.
 
 ### Organising Commitee
 
@@ -57,7 +55,7 @@ Irina Velsko (MPI-SHH, Jena, velsko@shh.mpg.de)
 
 Åshild (Ash) Vågene (Globe Institute, Copenhagen, ashild.vagene@sund.ku.dk)
 
-Clio der Sarkissian (UMR5288-CNRS, Toulouse, clio.dersarkissian@univ-tlse3.fr)
+Clio Der Sarkissian (UMR5288-CNRS, Toulouse, clio.dersarkissian@univ-tlse3.fr)
 
 Anna Fotakis (Globe Institute, Copenhagen, anna.fotakis@sund.ku.dk)
 
