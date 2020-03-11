@@ -21,7 +21,7 @@ For more information, please see the ISBA9 website
 
 * [Bars and restaurants](https://isba9.sciencesconf.org/resource/page/id/7)
 
-### Things to do in the area, and social activities
+### Things to do in the area, and social activities 
 
 For more information, please see the ISBA9 website
 
