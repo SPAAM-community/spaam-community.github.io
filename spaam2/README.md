@@ -10,8 +10,8 @@
 
 **Provisional**
 
-Faculté de Médecine de Purpan,
-37 allée Jules Guesde
+Université Fédérale de Toulouse,
+41 allée Jules Guesde
 Toulouse
 FRANCE
 
