@@ -10,7 +10,7 @@ A table reservation for SPAAM2 attendees will be made on both days at the Toulou
 
 Each lunch will be charged **17€** and will consist in a **main dish and bread, coffee and an assortment of three sweets**.
 
-Please, indicate any dietary restriction on the Registration Confirmation Form.
+:warning: Please, indicate any dietary restriction on the Registration Confirmation Form.
 
 The menus will be announced one week before the workshop, and will be based on French cuisine, local availability and season.
 
