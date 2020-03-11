@@ -6,7 +6,7 @@
 
 SPAAM2 will be held at the following address:
 
-Université Fédérale de Toulouse
+Université Fédérale de Toulouse,
 41 allée Jules Guesde,
 Toulouse, FRANCE
 
