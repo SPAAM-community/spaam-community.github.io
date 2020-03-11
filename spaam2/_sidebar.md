@@ -8,4 +8,4 @@
   * [Travel Instructions](spaam2/travel.md "SPAAM2 - Travel Instructions")
   * [Food and Activities](spaam2/foodandactivities.md "SPAAM2 - Food and Activities")
   * [Code of Conduct](spaam2/codeofconduct.md "SPAAM2 - Code of Conduct")
-* [Support and Acknowledgements](support_and_acknowledgements.md)
+* [Support and Acknowledgements](/support_and_acknowledgements.md)
