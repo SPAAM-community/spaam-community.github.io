@@ -1,11 +1,9 @@
-LOGO GOES HERE
+# 
 
-# SPAAM
+<img src="_media/SPAAM-Logo-Full-Colour.svg" width=30%/>
 
->  Standards, Precautions, and Advances in Ancient Metagenomics
-
-- Community of researchers working on ancient metagenomics
-- Regular discussion workshops
+* <img src="_media/SPAAM-Avatar-White.svg" width=3%/> Community of researchers working on ancient metagenomics
+* <img src="_media/SPAAM-Avatar-White.svg" width=3%/> Regular discussion workshops
 
 Scroll down for more information
 
@@ -13,6 +11,8 @@ Scroll down for more information
 [Latest](/latest.md)
 [Next Event](spaam2/README.md)
 
+
 <!-- background color -->
 
 ![color](#FFFFFF)
+
