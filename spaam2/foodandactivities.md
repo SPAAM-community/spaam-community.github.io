@@ -4,7 +4,7 @@
 
 ### Food
 
-For lunch breaks:
+#### Lunch
 
 A table reservation for SPAAM2 attendees will be made on both days at the Toulouse Natural History Museum restaurant, Le Moaï (5 min walk from the workshop venue http://www.lemoai.com/).
 
@@ -20,7 +20,11 @@ For those who wish to explore the area themselves, here are some lunch options i
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1Q-AOMIZz3-np8muacyH99jSsJyK5F1BS" width="640" height="480"></iframe>
 
-For more information, please see the ISBA9 website:
+#### Dinner
+
+We will not organise dinner for either day, however we may organise an informal social event on the evening of the Monday.
+
+For other options for food and drink, please see the ISBA9 website:
 
 * [Bars and restaurants](https://isba9.sciencesconf.org/resource/page/id/7)
 
