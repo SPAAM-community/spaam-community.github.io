@@ -22,7 +22,7 @@ Built with [Docsify](https://docsify.js.org).
     
     ```
 
-- If you add a new markdown file, don't forget to add it in the [_sidebar.md](_sidebar.md) file. Headers within a Markdown file are added automatically to the sidebar.
+- If you add a new markdown file, don't forget to add it in the [sidebar.md](_sidebar.md) file. Headers within a Markdown file are added automatically to the sidebar.
 
 - **DO NOT EDIT `index.html`** 
 - **DO NOT RENAME `home.md`**
