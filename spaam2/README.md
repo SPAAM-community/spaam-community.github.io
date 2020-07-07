@@ -8,24 +8,32 @@ A grassroots-organised satellite meeting to [ISBA9](https://isba9.sciencesconf.o
 
 [<img align="absmiddle" src="./_media/SPAAM-Logo-Full-Colour.svg" width="40%"/>](https://spaam-workshop.github.io/)[<img align="absmiddle" src="./_media/ISBA9_logo.png" width="20%"/>](https://isba9.sciencesconf.org/)
 
-:warning: SPAAM2 Registration is now **CLOSED**. 
+:warning: SPAAM2 Registration is now **CLOSED**.
+
+:warning: SPAAM2 will now be hosted online due to postponement of ISBA9.
 
 ### When?
 
 #### Dates
 
-21-22nd September 2020 (prior to the ISBA9 conference)
+Registration, Video Call Set up and Support: 18th September 2020
+
+Event: 21-22nd September 2020
 
 #### Times
 
-09:00 - 16:00 both days (registration on the 21st will open at 08:30)
+Registration 13:00-15:00 (CEST)   (**TBC**)
+
+13:00 -20:00 (CEST) both days (**TBC**)
 
 ### Where?
 
-Université Fédérale de Toulouse,  
-41 allée Jules Guesde,  
-Toulouse  
-FRANCE  
+Online via video conference. Links will be sent out to participants prior the address.
+
+~~Université Fédérale de Toulouse~~
+~~41 allée Jules Guesde, ~~
+~~Toulouse~~  
+~~FRANCE~~
 
 ### Event Description
 
@@ -38,7 +46,7 @@ In this context, we propose a second meeting of the Standards, Precautions and A
 3. Open and reproducible science
 4. Building networks within the ancient metagenomics community
 
-We envision the primary outcome of this workshop to be the establishment of an active, ongoing community for consistent knowledge dissemination and constructive assistance between ancient DNA labs. A major component of this will be creating structured consensus guidelines for optimizing ancient metagenomics wet and dry-lab workflows. In doing so, we aim to keep the field focused and up-to-date in accordance with the advances being made in modern metagenomics research. Secondarily, we aim to write an opinion paper on the status and major challenges of the field that clearly defines standards for these types of studies. A preliminary summary of the workshop will be presented at the closing ceremony of ISBA9. These initiatives should help to consolidate ancient metagenomics as a solid research field connecting both archaeology and the biological sciences.
+We envision the primary outcome of this workshop to be the establishment of an active, ongoing community for consistent knowledge dissemination and constructive assistance between ancient DNA labs. A major component of this will be creating structured consensus guidelines for optimizing ancient metagenomics wet and dry-lab workflows. In doing so, we aim to keep the field focused and up-to-date in accordance with the advances being made in modern metagenomics research. Secondarily, we aim to write an opinion paper on the status and major challenges of the field that clearly defines standards for these types of studies. ~~A preliminary summary of the workshop will be presented at the closing ceremony of ISBA9~~. These initiatives should help to consolidate ancient metagenomics as a solid research field connecting both archaeology and the biological sciences.
 
 ### Accessibility
 

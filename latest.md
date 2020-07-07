@@ -1,5 +1,11 @@
 # Latest
 
+## 2020-07-07
+
+Due to the postponement of ISBA9, SPAAM2 will be converted to a virtual meet up!
+
+Please see details on the [SPAAM2](spaam2/README) for updated information.
+
 ## 2020-03-11
 
 * Fancy new logo!
