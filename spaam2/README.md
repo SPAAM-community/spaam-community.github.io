@@ -4,7 +4,7 @@
 
 #### What?
 
-A grassroots-organised satellite meeting to [ISBA9](https://isba9.sciencesconf.org/), specialising in tackling the challenges of ancient metagenomics
+A grassroots-organised (originally) satellite meeting to [ISBA9](https://isba9.sciencesconf.org/), specialising in tackling the challenges of ancient metagenomics
 
 [<img align="absmiddle" src="./_media/SPAAM-Logo-Full-Colour.svg" width="40%"/>](https://spaam-workshop.github.io/)[<img align="absmiddle" src="./_media/ISBA9_logo.png" width="20%"/>](https://isba9.sciencesconf.org/)
 
