@@ -1,5 +1,10 @@
 # Latest
 
+## 2020-08-11
+
+We have now added a new section of the website '[Projects](projects/README.md)', which contains our
+first community project: AncientMetagenomeDir
+
 ## 2020-07-07
 
 Due to the postponement of ISBA9, SPAAM2 will be converted to a virtual meet up!
