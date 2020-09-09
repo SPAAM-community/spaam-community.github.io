@@ -22,15 +22,11 @@ Please see the [programme](spaam2/programme.md) for more information.
 
 #### Dates
 
-Registration, Video Call Set up and Support: 18th September 2020
-
 Event: 21-22nd September 2020
 
 #### Times
 
-Registration 13:00-15:00 (CEST)   (**TBC**)
-
-13:00 -20:00 (CEST) both days (**TBC**)
+13:00 -20:00 (CEST) both days (subject to minor changes)
 
 ### Who?
 
@@ -38,7 +34,7 @@ A list of participants will be made avaliable via email.
 
 ### Where?
 
-Online via video conference. Zoom and Youtube links will be sent out to
+Online via video conference. Zoom/Youtube links will be sent out to
 participants prior the address via email!
 
 ~~Université Fédérale de Toulouse~~ ~~41 allée Jules Guesde, ~~ ~~Toulouse~~  
