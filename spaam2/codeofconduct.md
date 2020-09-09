@@ -100,7 +100,7 @@ Irina Velsko (MPI-SHH, Jena, velsko@shh.mpg.de)
 
 Åshild (Ash) Vågene (Globe Institute, Copenhagen, ashild.vagene@sund.ku.dk)
 
-Clio der Sarkissian (UMR5288-CNRS, Toulouse, clio.dersarkissian@univ-tlse3.fr)
+Clio Der Sarkissian (UMR5288-CNRS, Toulouse, clio.dersarkissian@univ-tlse3.fr)
 
 Anna Fotakis (Globe Institute, Copenhagen, anna.fotakis@sund.ku.dk)
 
