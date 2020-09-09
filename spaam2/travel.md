@@ -2,9 +2,12 @@
 
 :warning: All information is out of date. SPAAM2 is now a virtual workshop!
 
+It will be hosted via Zoom, a link will be sent out to all participants via 
+email.
+
 ## Travel Instructions
 
-> :warning: Important: SPAAM2 is NOT in the same place as ISBA9!
+~~> :warning: Important: SPAAM2 is NOT in the same place as ISBA9!~~
 
 ~~SPAAM2 will be held at the following address:~~
 

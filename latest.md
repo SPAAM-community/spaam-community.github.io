@@ -1,5 +1,9 @@
 # Latest
 
+## 2020-09-09
+
+Programme and session abstracts for [SPAAM2](spaam2/README) are now online!
+
 ## 2020-08-11
 
 We have now added a new section of the website '[Projects](projects/README.md)', which contains our
