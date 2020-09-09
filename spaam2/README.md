@@ -16,7 +16,7 @@ src="./_media/ISBA9_logo.png" width="20%"/>](https://isba9.sciencesconf.org/)
 
 :warning: SPAAM2 will now be hosted online due to postponement of ISBA9.
 
-Please see the [programme](programme.md) for more information.
+Please see the [programme](spaam2/programme.md) for more information.
 
 ### When?
 
@@ -99,7 +99,7 @@ what support you may require in the registration form.
   alt="James Fellows Yates" width="70" height="83"> <img
   src="https://www.shh.mpg.de/employee_images/95205-1579004652?t=eyJoZWlnaHQiOjE2Niwid2lkdGgiOjE0MCwiZml0IjoiY3JvcCJ9--7046adb1c303f84660058687528556e0bf7e71b4"
   alt="Irina Velsko" width="70" height="83"> <img
-  src="https://pbs.twimg.com/profile_images/1204403803128250369/Yf7D9RJl_400x400.jpg"
+  src="https://images.zapnito.com/users/79428/avatar/medium_photo_ash.jpg"
   alt="Åshild Vågene" width="83" height="83"> <img
   src="https://isba9.sciencesconf.org/data/pages/clio.png" alt="Clio Der
   Sarkissian" width="65" height="83"> <img

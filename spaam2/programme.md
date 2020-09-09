@@ -7,7 +7,7 @@
 Length: 2 days
 
 All times CEST (see here for Time
-Zone[conversion](https://everytimezone.com/s/e15fccf5))
+Zone [conversion](https://everytimezone.com/s/e15fccf5))
 
 #### Day 1
 
@@ -41,6 +41,8 @@ Zone[conversion](https://everytimezone.com/s/e15fccf5))
 All sessions will include 'icebreaker' talks by members of the SPAAM community,
 who will present on their own experiences and challenges working ancient
 metagenomics to serve as starting point for discussions.
+
+:warning: All titles and abstracts are subject to minor changes!
 
 #### Session 1
 
@@ -77,7 +79,7 @@ processing of ancient samples.
 **Title** Removing the persistent trash: Challenges in genotyping and filtering
 out contaminant reads from genome alignments
 
-**Chair** Åshild Vågene
+**Chair** Åshild (Ash) Vågene
 
 **Abstract** Genotyping is the characterization of variants (SNPs, Indels) that
 occur at the single genome level. Accurate genotyping of ancient microbial
@@ -130,12 +132,12 @@ the quality of reconstructed ancient bacterial genomes by precisely removing
 nucleotide bases of ancient reads which are possibly affected by post-mortem
 damage.
 
-#### Session 3 - Sorting the trash: Defining authentication guidelines for the research community
+#### Session 3 
 
 **Title**  Sorting the trash: Defining authentication guidelines for the
 research community
 
-**Chair** Clio der Sarkissian
+**Chair** Clio der Sarkissian and James Fellows Yates
 
 **Abstract** Authenticating ancient metagenomic datasets has long been
 considered a nearly impossible task. Post-mortem, ancient DNA molecules
@@ -178,7 +180,7 @@ ancient pathogen genomics.
 **Title** Recycling the trash: Standards, reproducibility and open science in
 ancient metagenomics
 
-**Chair** James Fellows Yates
+**Chair** Clio der Darkissian and James Fellows Yates
 
 **Abstract** Reproducibility in the biological sciences has become a central
 discussion point of the field as a whole. Given the explosion of sophisticated
@@ -204,7 +206,7 @@ benchmarking and comparative datasets are required. Finally, we will discuss
 what is the most important metadata currently required to ensure optimal reuse
 and interpretation of the rich data we produce.
 
-**Icebreaker presenters** Sterling Wright and Nicolás Rascovan:
+**Icebreaker presenters** Sterling Wright, James Fellows Yates, and Nicolás Rascovan:
 
 **Icebreaker mini-abstract** _Improving current and future practices in ancient
 microbiome analyses_ In this presentation, we will discuss the different
@@ -220,9 +222,9 @@ ancient microbiome studies, such as the commonly used SourceTracker. We hope
 that an open discussion on these issues will serve as a guide towards towards
 more robust and reproducible analysis in future research
 
-#### Session 5 - Reuse the refuse: Applying new analytical methods beyond current practises
+#### Session 5
 
-**Title** 
+**Title** Reuse the Refuse: Applying new analytical methods beyond current pratises
 
 **Chair** Anna Fotakis and Alex Hübner
 
@@ -249,7 +251,7 @@ genomics. Finally we would like to encourage novel ways of approaching datasets
 building upon previous sessions of SPAAM2 regarding public data sharing
 deposition.
 
-**Icebreaker presenters** Maxime Borry
+**Icebreaker presenters** Maxime Borry and Antonio Fernandez-Guerra
 
 **Icebreaker mini-abstract** TBC
 
@@ -257,6 +259,6 @@ deposition.
 
 **Abstract** Now that we have identified common obstacles and discussed possible
 solutions for our field, what's next? In this session we will summarise
-everything talked over the last two days. We can define potential common
-projects and potentially set up 'working commitees' to begin work on these
+everything talked about in the last two days. We can identify potential common
+projects and 'working commitees' to begin work on these
 topics. Finally we will gather opinions on future meet ups, e.g. a SPAAM3.
