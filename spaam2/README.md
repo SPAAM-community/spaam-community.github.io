@@ -26,7 +26,7 @@ Event: 21-22nd September 2020
 
 #### Times
 
-13:00 -20:00 (CEST) both days (subject to minor changes)
+13:00-20:00 (CEST) both days (subject to minor changes)
 
 ### Who?
 
