@@ -137,7 +137,7 @@ damage.
 **Title**  Sorting the trash: Defining authentication guidelines for the
 research community
 
-**Chair** Clio der Sarkissian and James Fellows Yates
+**Chair** Clio Der Sarkissian and James Fellows Yates
 
 **Abstract** Authenticating ancient metagenomic datasets has long been
 considered a nearly impossible task. Post-mortem, ancient DNA molecules
@@ -180,7 +180,7 @@ ancient pathogen genomics.
 **Title** Recycling the trash: Standards, reproducibility and open science in
 ancient metagenomics
 
-**Chair** Clio der Darkissian and James Fellows Yates
+**Chair** Clio Der Sarkissian and James Fellows Yates
 
 **Abstract** Reproducibility in the biological sciences has become a central
 discussion point of the field as a whole. Given the explosion of sophisticated
