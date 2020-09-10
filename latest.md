@@ -1,5 +1,9 @@
 # Latest
 
+## 2020-09-10
+
+Corrections to icebreaker talks for [SPAAM2](spaam2/README).
+
 ## 2020-09-09
 
 Programme and session abstracts for [SPAAM2](spaam2/README) are now online!

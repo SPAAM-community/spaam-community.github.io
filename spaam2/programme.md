@@ -6,8 +6,8 @@
 
 Length: 2 days
 
-All times CEST (see here for Time
-Zone [conversion](https://everytimezone.com/s/e15fccf5))
+All times CEST (see here for Time Zone
+[conversion](https://everytimezone.com/s/e15fccf5))
 
 #### Day 1
 
@@ -18,16 +18,18 @@ Zone [conversion](https://everytimezone.com/s/e15fccf5))
 - _15:15_ **Session 2** [Removing the persistent trash: Challenges in genotyping
   and filtering out contaminant reads from genome alignment](#session-2).
 - _17:30_ Long Break
-- _18:30_ **Session 3** [Sorting the trash: Defining authentication guidelines
-  for the research community](#session-3).
+- _18:30_ **Session 3** [Sorting and Recycling the Trash: authentication,
+  standards, and reproducibility in ancient metagenomic research (Part
+  1)](#session-3).
 - _20:00_ Daily Wrap up
 - _20:15_ Finish
 
 #### Day 2
 
 - _13:00_ Day Overview
-- _13:10_ **Session 4** [Recycling the trash: Standards, reproducibility and
-  open science in ancient metagenomics](#session-4).
+- _13:10_ **Session 4** [Sorting and Recycling the Trash: authentication,
+  standards, and reproducibility in ancient metagenomic research (Part
+  2)](#session-3).
 - _15:30_ Break
 - _15:45_ **Session 5** [Reuse the refuse: Applying new analytical methods
   beyond current practises](#session-5)
@@ -132,84 +134,45 @@ the quality of reconstructed ancient bacterial genomes by precisely removing
 nucleotide bases of ancient reads which are possibly affected by post-mortem
 damage.
 
-#### Session 3 
+#### Session 3
 
-**Title**  Sorting the trash: Defining authentication guidelines for the
-research community
+**Title**  Sorting and Recyling the trash: Defining authentication guidelines
+for the research community
 
 **Chair** Clio Der Sarkissian and James Fellows Yates
 
 **Abstract** Authenticating ancient metagenomic datasets has long been
-considered a nearly impossible task. Post-mortem, ancient DNA molecules
-accumulate two main types of damage quantifiable in sequence data: cytosine
-deamination giving rise to artifactual mutations, and depurination responsible
-for high fragmentation. As a consequence, ancient DNA analyses are extremely
-sensitive to contamination by exogenous DNA, which can occur anytime from
-deposition to laboratory work. Ancient DNA datasets thus consist in a mixture of
-DNA sequencing reads arising not only from the individuals of interest, but also
-from various contaminating sources. This can potentially lead to false positive
-taxon identification, inaccurate reconstructions of community compositions or
-errors in genome characterisations. Validation of results is therefore
-imperative to ensure scientific rigour and ethical practices. It requires the
-complex task of carefully sorting ancient DNA datasets  to trash - possibly
-degraded - contaminants and retain endogenous, biologically relevant
-information. Furthermore, among researchers from associated fields such as
-archaeology and anthropology, the challenges in authentication have
-unfortunately sometimes led to the misconceptions that ancient DNA results
-cannot be trusted, or to the adoption of arbitrary experimental strategies and
-authentication criteria. The aim of this session will be to define what
-constitutes legitimate authentication criteria as well as guidelines for their
-reporting. We will then evaluate their criticality with regards to a minimal
-authentication line of evidence.  We will also discuss authentication criteria
-as part of the practices and processes for a responsible and ethical research
-conduct. We will finally explore strategies to best communicate about ancient
-DNA authentication with collaborators both within and outside the ancient
-metagenomic community.
+considered equally a nearly impossible  and crucial task to demonstrate that
+‘true’ ancient metagenomes can be characterised. Post-mortem fragmentation
+(typically via depurination) and damage base modification (via cytosine
+deamination) make aDNA analysis very sensitive to exogenous ‘contaminating’ DNA
+that can confound downstream analysis. Validation of results is therefore
+imperative not only to ensure scientific rigour, trust in the methods by
+researchers from related fields (e.g., anthropologists, archaeologists), but can
+also have important ethical consequences. Defining a consensus-based legitimate
+set of minimum-authentication criteria for ancient metagenomics is therefore
+crucial for gaining this trust in the field and facilitating further exploration
+of this type of data. Secondly, following standard guidelines by researchers can
+only be expected if these standards and guidelines follow FAIR principles:
+Finable, Accessible, Interoperable, and Reusable. Making sure authentication
+methods and reporting guidelines can be used and applied by any type of lab (big
+or small, specialist or generalist), can only come by making sure software and
+data is accessible, usable and most importantly understandable. In part one of
+this two-part session we will: i) get an overview of the obstacles and possible
+solutions of current and potential future approaches for authenticating
+metagenomic datasets, ii) begin to define a minimal authentication line of
+evidence and iii) discuss how to communicate this to collaborators inside and
+outside the ancient metagenomic community. In part two we will discuss i) how to
+improve accessibility and usability of ancient metagenomic datasets and software
+such as through collaboratively-generated benchmarking/comparative datasets as
+well as metadata reporting, and ii) how to ensure responsible and ethical
+research conduct.
 
-**Icebreaker presenters** Miriam Bravo López
+**Icebreaker 1 & 3 presenters** Sterling Wright, Nikolay Oskolkov, Nicolás
+Rascovan, James Fellows Yates, and Miriam Bravo López
 
-**Icebreaker mini-abstract** The emergence of biological and historical
-interpretations through ancient DNA research, in particular through ancient
-pathogen genomics, can have important social, legal, and political consequences
-for individuals and communities. Therefore, the discussion of the best ethical
-practices within the field will allow us to promote responsible research on
-ancient pathogen genomics.
-
-#### Session 4
-
-**Title** Recycling the trash: Standards, reproducibility and open science in
-ancient metagenomics
-
-**Chair** Clio Der Sarkissian and James Fellows Yates
-
-**Abstract** Reproducibility in the biological sciences has become a central
-discussion point of the field as a whole. Given the explosion of sophisticated
-analytical techniques spanning increasingly broad interdisciplinary topics,
-thorough peer-review by one or two specialists is often difficult to achieve. In
-this vein, large strides have been recently made in facilitating researchers to
-use the exact data (e.g. deposited in public databases from NCBI and ENA) and
-software environments (bioconda, software containers) of an under-review or
-previous publication.
-
-However, central to achieving reproducibility is standardisation in the
-reporting of analysis and (meta)data. When researchers speak a flexible but
-clearly defined ‘common language’, this facilitates rapid and reliable
-consumption of types of data, and thus assists in generating more fruitful
-collaboration either through peer-review or direct contributions of different
-labs to common projects.
-
-In this session will have a wide-reaching discussion covering what obstacles and
-difficulties the ancient metagenomics community faces when performing and
-reporting analyses and data. We will begin to conceptualise the most important
-standard analyses that should be performed in the field and what common
-benchmarking and comparative datasets are required. Finally, we will discuss
-what is the most important metadata currently required to ensure optimal reuse
-and interpretation of the rich data we produce.
-
-**Icebreaker presenters** Sterling Wright, James Fellows Yates, and Nicolás Rascovan:
-
-**Icebreaker mini-abstract** _Improving current and future practices in ancient
-microbiome analyses_ In this presentation, we will discuss the different
+**Icebreaker  1 & 3 mini-abstract** _Improving current and future practices in
+ancient microbiome analyses_ In this presentation, we will discuss the different
 challenges in the bioinformatic processing and analysis of ancient microbiome
 data. This includes: i) compiling reference datasets and comparative analyses,
 ii) using standardized authentication tools, iii) identifying the limitations of
@@ -222,9 +185,23 @@ ancient microbiome studies, such as the commonly used SourceTracker. We hope
 that an open discussion on these issues will serve as a guide towards towards
 more robust and reproducible analysis in future research
 
+**Icebreaker 2 mini-abstract** _Detecting Modern Contamination in Ancient DNA
+Samples with Deep Learning _ Abstract TBC
+
+**Icebreaker 4 mini-abstract**: _Defining standards in metadata reporting for
+ancient metagenomics_  Abstract TBC
+
+**Icebreaker 5 mini-abstract** _Ethics in ancient pathogen genomics _ The
+emergence of biological and historical interpretations through ancient DNA
+research, in particular through ancient pathogen genomics, can have important
+social, legal, and political consequences for individuals and communities.
+Therefore, the discussion of the best ethical practices within the field will
+allow us to promote responsible research on ancient pathogen genomics.
+
 #### Session 5
 
-**Title** Reuse the Refuse: Applying new analytical methods beyond current pratises
+**Title** Reuse the Refuse: Applying new analytical methods beyond current
+pratises
 
 **Chair** Anna Fotakis and Alex Hübner
 
@@ -260,5 +237,5 @@ deposition.
 **Abstract** Now that we have identified common obstacles and discussed possible
 solutions for our field, what's next? In this session we will summarise
 everything talked about in the last two days. We can identify potential common
-projects and 'working commitees' to begin work on these
-topics. Finally we will gather opinions on future meet ups, e.g. a SPAAM3.
+projects and 'working commitees' to begin work on these topics. Finally we will
+gather opinions on future meet ups, e.g. a SPAAM3.
