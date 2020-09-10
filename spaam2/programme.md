@@ -186,12 +186,12 @@ that an open discussion on these issues will serve as a guide towards towards
 more robust and reproducible analysis in future research
 
 **Icebreaker 2 mini-abstract** _Detecting Modern Contamination in Ancient DNA
-Samples with Deep Learning _ Abstract TBC
+Samples with Deep Learning_ Abstract TBC
 
 **Icebreaker 4 mini-abstract**: _Defining standards in metadata reporting for
 ancient metagenomics_  Abstract TBC
 
-**Icebreaker 5 mini-abstract** _Ethics in ancient pathogen genomics _ The
+**Icebreaker 5 mini-abstract** _Ethics in ancient pathogen genomics_ The
 emergence of biological and historical interpretations through ancient DNA
 research, in particular through ancient pathogen genomics, can have important
 social, legal, and political consequences for individuals and communities.
