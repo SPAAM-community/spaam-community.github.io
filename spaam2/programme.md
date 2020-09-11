@@ -185,8 +185,12 @@ ancient microbiome studies, such as the commonly used SourceTracker. We hope
 that an open discussion on these issues will serve as a guide towards towards
 more robust and reproducible analysis in future research
 
-**Icebreaker 2 mini-abstract** _Detecting Modern Contamination in Ancient DNA
-Samples with Deep Learning_ Abstract TBC
+**Icebreaker 2 mini-abstract** _Improving authentication tools of ancient microbiomes_ In this presentation, I will discuss alternative ways of performing authentication analysis in ancient metagenomics data. Specifically, with low amounts of aDNA and
+a lack of good quality refernce genome, there is a need for going beyond traditional
+alignment and deamination pattern approaches, when addressing authenticity of
+each individual sequence. I will discuss how Machine and Deep Learning algorithms
+could help to infer authenticity of individual ancient metagenomics sequences in a
+reference genome free manner.
 
 **Icebreaker 4 mini-abstract**: _Defining standards in metadata reporting for
 ancient metagenomics_  Abstract TBC
