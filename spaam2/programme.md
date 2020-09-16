@@ -233,7 +233,7 @@ deposition.
 **Icebreaker presenters** Maxime Borry and Antonio Fernandez-Guerra
 
 **Icebreaker mini-abstract 6**: _New take on ancient DNA metagenomics assembly validation_  
-Given enough sequencing depth, it is now possible to assemble ancient DNA data into contigs using de novo assemblers. However, sorting the contigs originating from modern contamination, from contigs assembled from truely ancient DNA would require a lot of manual work, that can not scale easily with the immense number of assembled contigs.
+Given enough sequencing depth, it is now possible to assemble ancient DNA data into contigs using de novo assemblers. However, sorting the contigs originating from modern contamination, from contigs assembled from truly ancient DNA, can require a lot of manual work that does not scale easily with the immense number of assembled contigs.
 With the Pydamage approach of damage estimation and statistical testing, we show how to rapidly filter for contigs showing ancient DNA damage, to be used for further analysis.
 
 **Icebreaker mini-abstract 7** TBC
