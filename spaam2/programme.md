@@ -19,8 +19,7 @@ All times CEST (see here for Time Zone
   and filtering out contaminant reads from genome alignment](#session-2).
 - _17:30_ Long Break
 - _18:30_ **Session 3** [Sorting and Recycling the Trash: authentication,
-  standards, and reproducibility in ancient metagenomic research (Part
-  1)](#session-3).
+  standards, and reproducibility in ancient metagenomic research (Part 1)](#session-3).
 - _20:00_ Daily Wrap up
 - _20:15_ Finish
 
@@ -28,8 +27,7 @@ All times CEST (see here for Time Zone
 
 - _13:00_ Day Overview
 - _13:10_ **Session 4** [Sorting and Recycling the Trash: authentication,
-  standards, and reproducibility in ancient metagenomic research (Part
-  2)](#session-3).
+  standards, and reproducibility in ancient metagenomic research (Part 2)](#session-3).
 - _15:30_ Break
 - _15:45_ **Session 5** [Reuse the refuse: Applying new analytical methods
   beyond current practises](#session-5)
@@ -136,13 +134,13 @@ damage.
 
 #### Session 3
 
-**Title**  Sorting and Recyling the trash: Defining authentication guidelines
+**Title** Sorting and Recyling the trash: Defining authentication guidelines
 for the research community
 
 **Chair** Clio Der Sarkissian and James Fellows Yates
 
 **Abstract** Authenticating ancient metagenomic datasets has long been
-considered equally a nearly impossible  and crucial task to demonstrate that
+considered equally a nearly impossible and crucial task to demonstrate that
 ‘true’ ancient metagenomes can be characterised. Post-mortem fragmentation
 (typically via depurination) and damage base modification (via cytosine
 deamination) make aDNA analysis very sensitive to exogenous ‘contaminating’ DNA
@@ -171,7 +169,7 @@ research conduct.
 **Icebreaker presenters** Sterling Wright, Nikolay Oskolkov, Nicolás
 Rascovan, James Fellows Yates, and Miriam Bravo López
 
-**Icebreaker  1 & 3 mini-abstract** _Improving current and future practices in
+**Icebreaker 1 & 3 mini-abstract** _Improving current and future practices in
 ancient microbiome analyses_ In this presentation, we will discuss the different
 challenges in the bioinformatic processing and analysis of ancient microbiome
 data. This includes: i) compiling reference datasets and comparative analyses,
@@ -193,7 +191,7 @@ could help to infer authenticity of individual ancient metagenomics sequences in
 reference genome free manner.
 
 **Icebreaker 4 mini-abstract**: _Defining standards in metadata reporting for
-ancient metagenomics_  Abstract TBC
+ancient metagenomics_ Abstract TBC
 
 **Icebreaker 5 mini-abstract** _Ethics in ancient pathogen genomics_ The
 emergence of biological and historical interpretations through ancient DNA
@@ -234,7 +232,11 @@ deposition.
 
 **Icebreaker presenters** Maxime Borry and Antonio Fernandez-Guerra
 
-**Icebreaker mini-abstract** TBC
+**Icebreaker mini-abstract 6**: _New take on ancient DNA metagenomics assembly validation_  
+Given enough sequencing depth, it is now possible to assemble ancient DNA data into contigs using de novo assemblers. However, sorting the contigs originating from modern contamination, from contigs assembled from truly ancient DNA, can require a lot of manual work that does not scale easily with the immense number of assembled contigs.
+With the Pydamage approach of damage estimation and statistical testing, we show how to rapidly filter for contigs showing ancient DNA damage, to be used for further analysis.
+
+**Icebreaker mini-abstract 7** TBC
 
 #### Session 6 - Future Steps for SPAAM
 
