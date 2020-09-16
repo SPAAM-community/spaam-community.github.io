@@ -168,7 +168,7 @@ such as through collaboratively-generated benchmarking/comparative datasets as
 well as metadata reporting, and ii) how to ensure responsible and ethical
 research conduct.
 
-**Icebreaker 1 & 3 presenters** Sterling Wright, Nikolay Oskolkov, Nicolás
+**Icebreaker presenters** Sterling Wright, Nikolay Oskolkov, Nicolás
 Rascovan, James Fellows Yates, and Miriam Bravo López
 
 **Icebreaker  1 & 3 mini-abstract** _Improving current and future practices in
