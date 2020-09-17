@@ -1,6 +1,6 @@
 # spaam-workshop.github.io 
 
-Repository for the [spaam-workshop.github.io](https://spaam-workshop.github.io) website.  
+Repository for the [spaam-community.github.io](https://spaam-community.github.io) website.  
 Built with [Docsify](https://docsify.js.org).
 
 

@@ -9,7 +9,7 @@ A grassroots-organised (originally) satellite meeting to
 challenges of ancient metagenomics
 
 [<img align="absmiddle" src="./_media/SPAAM-Logo-Full-Colour.svg"
-width="40%"/>](https://spaam-workshop.github.io/)[<img align="absmiddle"
+width="40%"/>](https://spaam-community.github.io/)[<img align="absmiddle"
 src="./_media/ISBA9_logo.png" width="20%"/>](https://isba9.sciencesconf.org/)
 
 :warning: SPAAM2 Registration is now **CLOSED**.
