@@ -19,7 +19,8 @@ All times CEST (see here for Time Zone
   and filtering out contaminant reads from genome alignment](#session-2).
 - _17:30_ Long Break
 - _18:30_ **Session 3** [Sorting and Recycling the Trash: authentication,
-  standards, and reproducibility in ancient metagenomic research (Part 1)](#session-3).
+  standards, and reproducibility in ancient metagenomic research (Part
+  1)](#session-3).
 - _20:00_ Daily Wrap up
 - _20:15_ Finish
 
@@ -27,7 +28,8 @@ All times CEST (see here for Time Zone
 
 - _13:00_ Day Overview
 - _13:10_ **Session 4** [Sorting and Recycling the Trash: authentication,
-  standards, and reproducibility in ancient metagenomic research (Part 2)](#session-3).
+  standards, and reproducibility in ancient metagenomic research (Part
+  2)](#session-3).
 - _15:30_ Break
 - _15:45_ **Session 5** [Reuse the refuse: Applying new analytical methods
   beyond current practises](#session-5)
@@ -134,8 +136,8 @@ damage.
 
 #### Session 3
 
-**Title** Sorting and Recyling the trash: Defining authentication guidelines
-for the research community
+**Title** Sorting and Recyling the trash: Defining authentication guidelines for
+the research community
 
 **Chair** Clio Der Sarkissian and James Fellows Yates
 
@@ -166,8 +168,8 @@ such as through collaboratively-generated benchmarking/comparative datasets as
 well as metadata reporting, and ii) how to ensure responsible and ethical
 research conduct.
 
-**Icebreaker presenters** Sterling Wright, Nikolay Oskolkov, Nicolás
-Rascovan, James Fellows Yates, and Miriam Bravo López
+**Icebreaker presenters** Sterling Wright, Nikolay Oskolkov, Nicolás Rascovan,
+James Fellows Yates, and Miriam Bravo López
 
 **Icebreaker 1 & 3 mini-abstract** _Improving current and future practices in
 ancient microbiome analyses_ In this presentation, we will discuss the different
@@ -183,15 +185,24 @@ ancient microbiome studies, such as the commonly used SourceTracker. We hope
 that an open discussion on these issues will serve as a guide towards towards
 more robust and reproducible analysis in future research
 
-**Icebreaker 2 mini-abstract** _Improving authentication tools of ancient microbiomes_ In this presentation, I will discuss alternative ways of performing authentication analysis in ancient metagenomics data. Specifically, with low amounts of aDNA and
-a lack of good quality refernce genome, there is a need for going beyond traditional
-alignment and deamination pattern approaches, when addressing authenticity of
-each individual sequence. I will discuss how Machine and Deep Learning algorithms
-could help to infer authenticity of individual ancient metagenomics sequences in a
-reference genome free manner.
+**Icebreaker 2 mini-abstract** _Improving authentication tools of ancient
+microbiomes_ In this presentation, I will discuss alternative ways of performing
+authentication analysis in ancient metagenomics data. Specifically, with low
+amounts of aDNA and a lack of good quality refernce genome, there is a need for
+going beyond traditional alignment and deamination pattern approaches, when
+addressing authenticity of each individual sequence. I will discuss how Machine
+and Deep Learning algorithms could help to infer authenticity of individual
+ancient metagenomics sequences in a reference genome free manner.
 
-**Icebreaker 4 mini-abstract**: _Defining standards in metadata reporting for
-ancient metagenomics_ Abstract TBC
+**Icebreaker 4 mini-abstract**: _Towards standards in metadata reporting in
+ancient metagenomic studies: experiences from AncientMetagenomeDir_ One of
+the first and last part of most ancient metagenomic studies is to gathering
+or reporting basic metadata about samples and their sequences. A recent SPAAM
+community project established AncientMetagenomeDir, a comprehensive but
+lightwieght collection of lists of all published ancient metagenomic and
+microbial genome samples. In this icebreaker I will cover the challenges
+encountered during this data scraping exercise, and introduce one possible
+proposal to improving metadata reporting in our field.
 
 **Icebreaker 5 mini-abstract** _Ethics in ancient pathogen genomics_ The
 emergence of biological and historical interpretations through ancient DNA
@@ -232,11 +243,23 @@ deposition.
 
 **Icebreaker presenters** Maxime Borry and Antonio Fernandez-Guerra
 
-**Icebreaker mini-abstract 6**: _New take on ancient DNA metagenomics assembly validation_  
-Given enough sequencing depth, it is now possible to assemble ancient DNA data into contigs using de novo assemblers. However, sorting the contigs originating from modern contamination, from contigs assembled from truly ancient DNA, can require a lot of manual work that does not scale easily with the immense number of assembled contigs.
-With the Pydamage approach of damage estimation and statistical testing, we show how to rapidly filter for contigs showing ancient DNA damage, to be used for further analysis.
+**Icebreaker mini-abstract 6**: _New take on ancient DNA metagenomics assembly
+validation_  
+Given enough sequencing depth, it is now possible to assemble ancient DNA data
+into contigs using de novo assemblers. However, sorting the contigs originating
+from modern contamination, from contigs assembled from truly ancient DNA, can
+require a lot of manual work that does not scale easily with the immense number
+of assembled contigs. With the Pydamage approach of damage estimation and
+statistical testing, we show how to rapidly filter for contigs showing ancient
+DNA damage, to be used for further analysis.
 
-**Icebreaker mini-abstract 7** TBC
+**Icebreaker mini-abstract 7** The adoption of modern metagenomic methods to
+explore ancient metagenomes and gain insight into their functional potential are
+starting to increase in their popularity amongst the community. However, we
+should act with caution and be aware of their limitations. I will go over some
+of the challenges of applying those approaches when analyzing ancient
+metagenomes and provide some ideas for developing computational methods tailored
+to our needs.
 
 #### Session 6 - Future Steps for SPAAM
 

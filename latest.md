@@ -1,5 +1,13 @@
 # Latest
 
+## 2020-09-18
+
+Final icebreaker talk abstracts for [SPAAM2](spaam2/README) now avaliable.
+
+## 2020-09-17
+
+Moved house! Our website and project pages are now hosted under the moniker: [spaam-community.github.io](https://spaam-community.github.io)! 
+
 ## 2020-09-11
 
 Added additional authentication session icebreaker abstract for [SPAAM2](spaam2/README).
