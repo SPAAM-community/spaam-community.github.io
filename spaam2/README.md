@@ -34,7 +34,7 @@ A list of participants will be made avaliable via email.
 
 ### Where?
 
-Online via video conference. Zoom/Youtube links will be sent out to
+Online via video conference. Zoom links will be sent out to
 participants prior the address via email!
 
 ~~Université Fédérale de Toulouse~~ ~~41 allée Jules Guesde, ~~ ~~Toulouse~~  
