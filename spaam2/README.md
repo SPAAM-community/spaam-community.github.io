@@ -53,7 +53,7 @@ archaeo- and palaeogeneticists  is crucial to ensure efficiency in overcoming
 these challenges.
 
 In this context, we propose a second meeting of the Standards, Precautions and
-Authentication of Ancient Metagenomics (SPAAM) workshop that [occurred in 2016
+Advances in Ancient Metagenomics (SPAAM) workshop that [occurred in 2016
 (Jena, Germany)](https://dx.doi.org/10.1146/annurev-genom-091416-035526) to
 bring together the ancient microbial genetics community to address the issues
 raised above. We aim to define the highest priority obstacles in ancient
