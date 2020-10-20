@@ -1,5 +1,9 @@
 # Latest
 
+## 2020-10-20
+
+Slides, notes and participant list of all discussions from [SPAAM2](spaam2/README) now avaliable at https://github.com/SPAAM-community/spaam-event-notes under an open-access CC-BY-NC license and citable with DOI.
+
 ## 2020-09-18
 
 Final icebreaker talk abstracts for [SPAAM2](spaam2/README) now avaliable.
