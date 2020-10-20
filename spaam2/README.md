@@ -2,6 +2,8 @@
 
 ## About
 
+> SPAAM2 was a great success, thanks to the >60 attendees. Particpant list, discussion transcripts and slides of SPAAM2 can be seen at [https://github.com/SPAAM-community/spaam-event-notes](https://github.com/SPAAM-community/spaam-event-notes).
+
 #### What?
 
 A grassroots-organised (originally) satellite meeting to
