@@ -1,5 +1,13 @@
 # Latest
 
+## 2021-01-29
+
+SPAAM now has a mailing list! If you are not a fan of Slack, you can sign up for more news, notifications, or even send your requests or information to: spaam-community@listserv.dfn.de. Note this requires sign-up at the following link: [https://www.listserv.dfn.de/sympa/info/spaam-community](https://www.listserv.dfn.de/sympa/info/spaam-community).
+
+## 2021-01-26
+
+First project from the SPAAM Community has now been published! See the AncientMetagenomeDir publication at Scientific Data: [https://doi.org/10.1038/s41597-021-00816-y](https://doi.org/10.1038/s41597-021-00816-y)
+
 ## 2020-10-20
 
 Slides, notes and participant list of all discussions from [SPAAM2](spaam2/README) now avaliable at [https://github.com/SPAAM-community/spaam-event-notes](https://github.com/SPAAM-community/spaam-event-notes) under an open-access CC-BY-NC license and citable with DOI.
