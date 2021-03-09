@@ -6,7 +6,7 @@
 We are a community of researchers focusing on ancient metagenomics.
 
 We aim to regularly meet to share knowledge on solutions to common challenges
-and obstacles that the field faces, with cycling organising commitees. We also
+and obstacles that the field faces, with cycling organising committees. We also
 collectively run projects for the benefits of the whole community.
 
 We also have a [slack

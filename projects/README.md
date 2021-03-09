@@ -7,7 +7,7 @@ progressing the field.
 
 AncientMetagenomeDir is a community curated resource of lists of all published
 shotgun-sequenced ancient metagenome samples. It is primarily meant to act as a
-reference guide to help point researchers toward any relevent public data for
+reference guide to help point researchers toward any relevant public data for
 comparative analysis. It is hoped it will help researchers track growth and
 development of the field of ancient metagenomics over time.
 
