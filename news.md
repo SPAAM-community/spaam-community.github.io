@@ -1,5 +1,9 @@
 # Latest
 
+## 2021-03-11
+
+The SPAAM community is now on twitter! You can follow us [here](http://twitter.com/spaam_community).
+
 ## 2021-01-29
 
 SPAAM now has a mailing list! If you are not a fan of Slack, you can sign up for more news, notifications, or even send your requests or information to: spaam-community@listserv.dfn.de. Note this requires sign-up at the following link: [https://www.listserv.dfn.de/sympa/info/spaam-community](https://www.listserv.dfn.de/sympa/info/spaam-community).
