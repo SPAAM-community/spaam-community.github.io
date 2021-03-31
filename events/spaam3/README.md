@@ -15,7 +15,7 @@ width="40%"/>](https://spaam-community.github.io/)
 :warning: SPAAM3 Registration is now **OPEN**. Please register under: https://pennstate.qualtrics.com/jfe/preview/SV_6hZFd1jk3OEquTc?Q_CHL=preview&Q_SurveyVersionID=current
 
 :warning: the programme is TBC
-<!--Please see the [programme](spaam2/programme.md) for more information.--!>
+<!--- Please see the [programme](spaam2/programme.md) for more information. -->
 
 ### When
 
