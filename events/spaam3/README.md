@@ -87,7 +87,7 @@ We aim to facilitate a collaborative process whereby early career scholars from 
 - Best practices for publishing sequencing data (e.g. number of controls)
 - Defining metadata standards 
 
-Submission Options:  
+### Submission Options:  
 
 **Individual splash talks** 
 
