@@ -124,7 +124,11 @@ TBC
 ---
 
 Miriam J. Bravo (LIIGH UMAN, Mexico, TBC)
+
 Aida Andrades Valtueña (MPI-EVA, Leipzig, aida_andrades@eva.mpg.de)
-Elizabeth (Betsy) A. Nelson (TBC, TBC, TBC)
+
+Elizabeth (Betsy) A. Nelson (UConn, Connecticut, enelson@uconn.edu)
+
 Kelly Blevins (ASU, Arizona, Kelly.Blevins@asu.edu)
+
 Sterling Wright (PennState, Pennsylvania, svw5689@psu.edu)
