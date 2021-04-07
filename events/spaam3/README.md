@@ -41,7 +41,7 @@ Online via video conference. Links to the event will be sent out via email!
 We are excited to announce the third installment of the Standards, Precautions, and Advances in Ancient Metagenomics (SPAAM). The last SPAAM meeting took place virtually in September 2020, which brought together many members of the ancient microbial genomics community to encourage collaboration and knowledge sharing to tackle some of the most pressing challenges in the field. We are continuing its legacy and hope that SPAAM3 will bring researchers together for the development of effective solutions to address current methodological issues in ancient metagenomics and push the field forward. Like its predecessor, this edition will provide a platform for early career scholars to discuss their experiences and perspectives related to ancient metagenomic research. It will be held virtually on September 1st-3rd. 
 
 
-While we invite submissions that focus on any pertinent topic relevant to ancient metagenomics, this edition of SPAAM will have three sessions devoted to the following  topics :
+While we invite submissions that focus on any pertinent topic relevant to ancient metagenomics, this edition of SPAAM will have four sessions devoted to the following  topics :
 - Session 1: Ancient Pathogens
 - Session 2: Ancient Microbiomes 
 - Session 3: Ethics
