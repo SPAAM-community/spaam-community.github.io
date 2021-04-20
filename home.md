@@ -1,6 +1,6 @@
 <title>SPAAM</title>
 
-# Standards Precautions and Advances in Metagenomics
+# Standards Precautions and Advances in Ancient Metagenomics
 
 ## About Us
 We are a community of researchers focusing on ancient metagenomics.
