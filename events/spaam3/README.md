@@ -21,7 +21,7 @@ width="40%"/>](https://spaam-community.github.io/)
 
 #### Dates
 
-Event: 1st-3rd September 2020
+Event: 1st-3rd September 2021
 
 
 #### Times
