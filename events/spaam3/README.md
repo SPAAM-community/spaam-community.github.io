@@ -119,8 +119,6 @@ what support you may require in the registration form under comments/suggestions
 
 ### Organising Committee
 
-TBC
-
 ---
 
 Miriam J. Bravo (LIIGH UMAN, Mexico, mbravo@liigh.unam.mx)
