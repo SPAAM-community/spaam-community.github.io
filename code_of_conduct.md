@@ -75,8 +75,8 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ### 8. Contact info
 
-SPAAM members:
+SPAAM Conduct Officers
 
-James Fellows Yates (LMU, München, james_fellows_yates@eva.mpg.de)
-
-Aida Andrades Valtueña (MPI-EVA, Leipzig, aida_andrades@eva.mpg.de)
+- James Fellows Yates (EN, LMU, München, james_fellows_yates@eva.mpg.de)
+- Aida Andrades Valtueña (CAT/ES/EN, MPI-EVA, Leipzig, aida_andrades@eva.mpg.de)
+- Shreya Ramachandran (EN/ES, University of Chicago, shreya23@uchicago.edu)
