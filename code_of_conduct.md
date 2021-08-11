@@ -3,7 +3,7 @@
 ## TL;DR
 
 * All attendees and members of SPAAM are expected to be respectful towards all members regardless of background, and actively participate in creating a welcoming and friendly community. 
-* [Unacceptable](4-unacceptable-behaviour) or illegal behaviour will not be tolerated and the organisers reserve the right to remove anyone violating the Code of Conduct from both in-person or online channels.
+* [Unacceptable](#4-unacceptable-behaviour) or illegal behaviour will not be tolerated and the organisers reserve the right to remove anyone violating the Code of Conduct from both in-person or online channels.
 * If at any point you feel unsafe or the code of conduct is violated, please contact any of the following [SPAAM members](#8-contact-info) who will deal with any issues respectfully and anonymously, as required.
 
 > This is only for guidance, and the main body of this page is the enforceable document.
