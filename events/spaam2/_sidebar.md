@@ -12,3 +12,4 @@
     * [Code of Conduct](events/spaam2/codeofconduct.md "SPAAM2 - Code of Conduct")
   * [SPAAM3](../spaam3/README.md "SPAAM3")
 * [Support and Acknowledgements](/support_and_acknowledgements.md)
+* [Code of Conduct](/code_of_conduct.md)
