@@ -11,7 +11,7 @@
 
 Scroll down for more information
 
-[About Us](#standards-precautions-and-advances-in-metagenomics)
+[About Us](/home.md)
 [News](/news.md) [Next Event](events/spaam3/README.md)
 
 <!-- background color -->
