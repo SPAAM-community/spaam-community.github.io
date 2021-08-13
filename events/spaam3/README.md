@@ -26,7 +26,7 @@ Event: 1st-3rd September 2021
 
 #### Times
 
-Starting at 6:00 PST/15:00 CET
+Starting at 6:00 PT/15:00 CET
 
 ### Who
 
