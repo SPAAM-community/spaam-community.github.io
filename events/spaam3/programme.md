@@ -202,7 +202,7 @@ In this presentation, I will report results of testing our ancient microbiome sp
 
 _**Study of biodiversity and the past environments by DNA in sediment records from Chalco Lake, Mexico**_
 
-_Barbara Moguel<sup>1</sup>_
+_Barbara Moguel<sup>1</sup>, Liseth Pérez, Luis David Alcaraz, Socorro Lozano-García, Luis Herrera- Estrella, María Ávila-Arcos, Juan Pedro Laclette, Israel Muñoz-Velasco_
 
 <sup>1</sup> Universidad Autónoma de México, México
  
