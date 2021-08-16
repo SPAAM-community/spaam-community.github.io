@@ -202,9 +202,17 @@ In this presentation, I will report results of testing our ancient microbiome sp
 
 _**Study of biodiversity and the past environments by DNA in sediment records from Chalco Lake, Mexico**_
 
-_Barbara Moguel<sup>1</sup>, Liseth Pérez, Luis David Alcaraz, Socorro Lozano-García, Luis Herrera- Estrella, María Ávila-Arcos, Juan Pedro Laclette, Israel Muñoz-Velasco_
+_Barbara Moguel<sup>1,2</sup>, Liseth Pérez<sup>3</sup>, Luis David Alcaraz<sup>4</sup>, Socorro Lozano-García<sup>5</sup>, Luis Herrera- Estrella<sup>6,7</sup>, María Ávila-Arcos<sup>1</sup>, Juan Pedro Laclette<sup>8</sup>, Israel Muñoz-Velasco<sup>9</sup>_
 
-<sup>1</sup> Universidad Autónoma de México, México
+<sup>1</sup> Universidad Nacional Autonoma de México, International Laboratory of Human Genome Research, Population and Evolutionary Genomics, México 
+<sup>2</sup> Tecnológico de Monterrey, Escuela de Ingeniería y Ciencias, Centro de Bioingeniería, Campus Querétaro, México
+<sup>3</sup> Institut für Geosysteme und Bioindikation, Technische Universität Braunschweig, Germany
+<sup>4</sup> Departamento de Biología Celular, Facultad de Ciencias, Universidad Nacional Autónoma de México, México
+<sup>5</sup> Institute of Geology, Universidad Nacional Autónoma de México, México
+<sup>6</sup> Laboratorio Nacional de Genómica para la Biodiversidad (LANGEBIO)/CINVESTAV, México
+<sup>7</sup> Institute of Functional Genomics for Abiotic Stress, Texas Tech University, USA
+<sup>8</sup> Instituto de Investigaciones Biomédicas, Universidad Nacional Autónoma de México, México 
+<sup>9</sup> Departamento de Biología Evolutiva, Facultad de Ciencias, Universidad Nacional Autónoma de México, México 
  
 Lake Chalco is located in the center of the Trans-Mexican Volcanic Belt in Mexico, and it is considered one of the most ancient lakes in the transition zone, between the Nearctic and Neotropical regions. Lake Chalco has an extensive study using several proxies in the sedimentary records, despite never approaching sed(a)DNA. In this study, we explore the new proxy using DNA collected from the sediment records corresponding to the Holocene to describe the biodiversity and reconstructed the ancient landscapes by metagenomics analysis. Sequencing of these samples generated 1,421,823,631 total reads. The taxonomic annotation revealed 81% of Bacteria, 15% of Archaea, 3% of Eukarya and 1% of unclassified sequences. We described three zones related to the past environmental conditions of the lake, using traditional and metagenomics proxies. The early Holocene (>11,000 cal years BP) lake was characterized by cool, freshwater conditions, which later became warmer and hyposaline (11,000-6,000 cal years BP). In this hyposaline zone we found high abundances of cyanobacteria, and other Bacteria and Archaea, mainly anaerobes and extremophiles that are involved in the sulfur, nitrogen, and carbon cycles. Between the warmer and hyposaline conditions we observed a transition zone (around 6,000 cal years BP), associated with Ti/Fe and with a drastic landscape change. It is reported that the first human settlements in this area were around 6,000 years BP. From this zone to present days, we observed Bacteria and Archaea mainly aerobics and some pathogens of human, animals, and crops. We could not separate between ancient and modern microorganisms in our samples and is still one of our main questions to solve. However, cyanobacteria and reads annotated to other photosynthetic bacteria in the deepest layers probably suggest ancient DNA trapped in sediments. This study opens the opportunity to continue exploring the microorganism over time and its relationship with the past environment in the Neotropic region.
 
