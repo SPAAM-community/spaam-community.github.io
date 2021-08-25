@@ -80,3 +80,4 @@ SPAAM Conduct Officers
 - James Fellows Yates (EN, LMU, München, james_fellows_yates@eva.mpg.de)
 - Aida Andrades Valtueña (CAT/ES/EN, MPI-EVA, Leipzig, aida_andrades@eva.mpg.de)
 - Shreya Ramachandran (EN/ES, University of Chicago, shreya23@uchicago.edu)
+- Elizabeth 'Betsy' Nelson (EN/ES, University of Connecticut, enelson@uconn.edu)
