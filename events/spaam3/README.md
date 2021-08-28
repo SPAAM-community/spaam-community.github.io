@@ -14,7 +14,7 @@ width="40%"/>](https://spaam-community.github.io/)
 
 :warning: SPAAM3 Registration is now **CLOSED**. 
 
-:warning: the programme is TBC
+:warning: the programme is now up! Please [see](/events/spaam3/programme.md) for more information.
 <!--- Please see the [programme](spaam2/programme.md) for more information. -->
 
 ### When
@@ -26,7 +26,7 @@ Event: 1st-3rd September 2021
 
 #### Times
 
-Starting at 6:00 PST/15:00 CET
+Starting at 6:00 PT/15:00 CET
 
 ### Who
 
