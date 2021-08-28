@@ -11,7 +11,16 @@ reference guide to help point researchers toward any relevant public data for
 comparative analysis. It is hoped it will help researchers track growth and
 development of the field of ancient metagenomics over time.
 
-- The AncientMetagenomedir website can be found
+- The AncientMetagenomeDir website can be found
   [here](https://spaam-community.github.io/AncientMetagenomeDir/).
 - The repository containing sample lists is hosted on github
   [here](https://github.com/SPAAM-community/AncientMetagenomeDir)
+
+## Ancient Metagenomics Labs
+
+The SPAAM community also curate a list of known labs working in ancient
+metagenomics with an aim to help improve collaboration by making labs around
+the world more visible.
+
+The list of labs can be found [here](https://spaam-community.github.io/ancient-metagenomics-labs/)
+
