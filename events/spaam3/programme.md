@@ -42,7 +42,7 @@ All times CEST (see here for Time Zone
   -  Part II:From bag to tube: Identifying the challenges and opportunities to advance laboratory practices
     -  _16:00-16:20_ Joint discussion
   -  Part III: What is minimal and what is better? Best practices for authenticating and analyzing ancient microbiome datasets
-    -  _16:20-16:40 “Impacts of agro-pastoral societies on biodiversity: palaeogenomic, palaeoecological and archaeological approaches”_ - Nathan Martun
+    -  _16:20-16:40 “Impacts of agro-pastoral societies on biodiversity: palaeogenomic, palaeoecological and archaeological approaches”_ - Nathan Martin
     -  _16:40-17:00 “Archaeogenetic detection of eukaryotes in host-associated microbial communities: challenges and considerations”_ - Allison Mann
     -  _17:00-17:20 “The problem of false discoveries in ancient microbiome analysis”_ - Nikolay Oskolkov
     -  _17:20-17:40 “Study of biodiversity and the past environments by DNA in sediment records from Chalco Lake, Mexico”_ - Barbara Moguel
@@ -161,7 +161,7 @@ Dental calculus is a non-renewable biomolecule with immense potential for inform
 
 _**Impacts of agro-pastoral societies on biodiversity: palaeogenomic, palaeoecological and archaeological approaches**_
 
-_Nathan Martum<sup>1</sup>, Régis Debruyne<sup>2</sup>, Pierre Stephan<sup>3</sup>, Jose Utge-Buil<sup>4</sup>, Françoise Dessarps<sup>4</sup>, Gregor Marchand<sup>5</sup>, Dominique Marguerie<sup>1</sup>, Fréderique Barloy-Hubler<sup>6</sup>, Morgane Ollivier<sup>1</sup>_
+_Nathan Martin<sup>1</sup>, Régis Debruyne<sup>2</sup>, Pierre Stephan<sup>3</sup>, Jose Utge-Buil<sup>4</sup>, Françoise Dessarps<sup>4</sup>, Gregor Marchand<sup>5</sup>, Dominique Marguerie<sup>1</sup>, Fréderique Barloy-Hubler<sup>6</sup>, Morgane Ollivier<sup>1</sup>_
 
 <sup>1</sup> UMR 6553 ECOBIO, University of Rennes 1, Rennes, France
 <sup>2</sup> National Museum of Natural History, Paris, France
