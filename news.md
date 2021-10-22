@@ -1,5 +1,9 @@
 # Latest
 
+## 2021-10-22
+
+Details next SPAAM community event is live! Please see the Event page for details about the AncientMetagenomeDir metadatathon happening on Nov. 5 2021.
+
 ## 2021-03-11
 
 The SPAAM community is now on twitter! You can follow us [here](http://twitter.com/spaam_community).
