@@ -23,4 +23,3 @@ metagenomics with an aim to help improve collaboration by making labs around
 the world more visible.
 
 The list of labs can be found [here](https://spaam-community.github.io/ancient-metagenomics-labs/)
-
