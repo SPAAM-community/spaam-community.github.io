@@ -58,9 +58,8 @@ We will be meeting on [gather.town](https://gather.town/app/biUhnBjsbwZexQ8w/anc
 
 | Date   | Time      | Event                                                      |
 |--------|-----------|------------------------------------------------------------|
-| Nov. 4 | 18:00 CET | **Group Check-in (Asia-Pacific): Welcome and training**    |
-| Nov. 4 | 19:00 CET | Metadata processing and programming!                       |
-| Nov. 4 | 20:00 CET | Continue...                                                |
+| Nov. 4 | 09:00 CET | **Group Check-in (Asia-Pacific): Welcome and training** (18:00 AUS)    |
+| Nov. 4 | <...> CET | Metadata processing and programming!                       |
 | Nov. 4 | <...>     | Continue...                                                |
 | Nov. 5 | 09:00 CET | **Check-in/out (EMEA/Asia-Pacific): Welcome and training** |
 | Nov. 5 | 10:00 CET | Continue...                                                |
