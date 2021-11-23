@@ -4,7 +4,7 @@
 * [News](/news.md)
 * [Projects](/projects/README.md)
 * [Events](/events/README.md)
-  * [Metadatathon Dec 2021](/events/metadatathon-nov2021/README.md#ancientmetagenomedir-metadatathon-dec-2021 "AncientMetagenomeDir Metadatathon Dec. 2021")
+  * [Metadatathon Dec 2021](/events/metadatathon-dec2021/README.md#ancientmetagenomedir-metadatathon-dec-2021 "AncientMetagenomeDir Metadatathon Dec. 2021")
     * [About](/events/metadatathon-dec2021/README.md#about)
     * [Organisational Details](/events/metadatathon-dec2021/README.md#organisational-details)
       * [Who](/events/metadatathon-dec2021/README.md#who)
