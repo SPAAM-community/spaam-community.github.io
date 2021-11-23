@@ -63,6 +63,7 @@ We will be meeting on [gather.town](https://gather.town/app/biUhnBjsbwZexQ8w/anc
 | Dec. 15 | 20:00 CET | Continue...                                                |
 | Dec. 15 | <...>     | Continue...                                                |
 | Dec. 16 | 09:00 CET | **Check-in/out (EMEA/Asia-Pacific): Welcome and training** |
+| Dec. 16 | 10:00 CET | **AncientMetagenomeDirCheck Presentation from Maxime Borry **                                                |
 | Dec. 16 | 10:00 CET | Continue...                                                |
 | Dec. 16 | 11:00 CET | Continue...                                                |
 | Dec. 16 | 12:00 CET | **Lunch break (EMEA)**                                     |

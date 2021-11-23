@@ -2,7 +2,10 @@
 
 ## 2021-10-22
 
-Details next SPAAM community event is live! Please see the Event page for details about the AncientMetagenomeDir metadatathon happening on Nov. 5 2021.
+The Metadatathon is back for round 2! Please see the Event page for details about the AncientMetagenomeDir metadatathon happening on Dec 16th 2021!
+## 2021-10-22
+
+Details about the next SPAAM community event is live! Please see the Event page for details about the AncientMetagenomeDir metadatathon happening on Nov. 5 2021.
 
 ## 2021-03-11
 
