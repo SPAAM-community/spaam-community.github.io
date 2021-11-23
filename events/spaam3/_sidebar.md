@@ -4,6 +4,7 @@
 * [News](/news.md)
 * [Projects](projects/README.md)
 * [Events](/events/README.md)
+  * [Metadatathon Dec 2021](/events/metadatathon-nov2021/README.md#ancientmetagenomedir-metadatathon-dec-2021 "AncientMetagenomeDir Metadatathon Dec. 2021")
   * [Metadatathon Nov 2021](/events/metadatathon-nov2021/README.md "AncientMetagenomeDir Metadatathon Nov. 2021")
   * [SPAAM3](/events/spaam3/README.md "SPAAM3")
     * [About](/events/spaam3/README.md "SPAAM3 - About")

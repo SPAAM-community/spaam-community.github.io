@@ -12,7 +12,7 @@
 Scroll down for more information
 
 [About Us](/home.md)
-[News](/news.md) [Next Event](events/metadatathon-nov2021/README.md)
+[News](/news.md) [Next Event](events/metadatathon-dec2021/README.md)
 
 <!-- background color -->
 
