@@ -1,4 +1,4 @@
-# AncientMetagenomeDir Metadatathon Nov. 2021
+# AncientMetagenomeDir Metadatathon Dec. 2021
 
 <p align="center">
 <img src="https://spaam-community.github.io/AncientMetagenomeDir/assets/images/spaam-AncientMetagenomeDir_socialmedia.png" width=50% >
