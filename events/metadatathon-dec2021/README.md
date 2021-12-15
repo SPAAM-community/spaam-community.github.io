@@ -58,9 +58,9 @@ We will be meeting on [gather.town](https://gather.town/app/PlXjb0deog0B4JCq/spa
 
 | Date   | Time      | Event                                                      |
 |--------|-----------|------------------------------------------------------------|
-| Dec. 15 | 18:00 CET | **Group Check-in (Asia-Pacific): Welcome and training**    |
-| Dec. 15 | 19:00 CET | Metadata processing and programming!                       |
-| Dec. 15 | 20:00 CET | Continue...                                                |
+| Dec. 15 | 21:30 CET | **Group Check-in (Asia-Pacific): Welcome and training**    |
+| Dec. 15 | 22:30 CET | Metadata processing and programming!                       |
+| Dec. 15 | 23:00 CET | Continue...                                                |
 | Dec. 15 | <...>     | Continue...                                                |
 | Dec. 16 | 09:00 CET | **Check-in/out (EMEA/Asia-Pacific): Welcome and training** |
 | Dec. 16 | 10:00 CET | **AncientMetagenomeDirCheck Presentation from Maxime Borry **                                                |
