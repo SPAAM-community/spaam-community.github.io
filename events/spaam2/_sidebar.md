@@ -14,5 +14,6 @@
     * [Travel Instructions](/events/spaam2/travel.md "SPAAM2 - Travel Instructions")
     * [Food and Activities](/events/spaam2/foodandactivities.md "SPAAM2 - Food and Activities")
     * [Code of Conduct](/events/spaam2/codeofconduct.md "SPAAM2 - Code of Conduct")
+* [Publications](/publications.md)
 * [Support and Acknowledgements](/support_and_acknowledgements.md)
 * [Code of Conduct](/code_of_conduct.md)

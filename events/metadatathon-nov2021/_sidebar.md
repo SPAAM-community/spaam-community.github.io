@@ -16,5 +16,6 @@
     * [Prerequisites](/events/metadatathon-nov2021/README.md#prerequisites)
   * [SPAAM3](/events/spaam3/README.md "SPAAM3")
   * [SPAAM2](/events/spaam2/README.md "SPAAM2")
+* [Publications](/publications.md)
 * [Support and Acknowledgements](/support_and_acknowledgements.md)
 * [Code of Conduct](/code_of_conduct.md)

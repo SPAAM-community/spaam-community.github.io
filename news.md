@@ -4,6 +4,9 @@
 
 The next SPAAM project will be commencing in the new year! We will be establishing a working group for the development of a possible [MIxS checklist](https://gensc.org/mixs/) for ancient DNA and ancient metagenomics, to improve the reporting of metadata of samples and data. Check the events pages for more information!
 
+# 2021-12-21
+
+The second paper from SPAAM is now published in mSystems! This publication evolved out of the discussions of [SPAAM2](./events/spaam2/README.md) See [publications](./publications.md) for more information.
 ## 2021-11-22
 
 The Metadatathon is back for round 2! Please see the Event page for details about the AncientMetagenomeDir metadatathon happening on Dec 16th 2021!
