@@ -53,7 +53,7 @@ In this meeting we will;
 
 ## Prerequisites
 
-- Join the [SPAAM slack channel](../../home.md)!
+- Join the [SPAAM slack workspace](../../home.md) and the `#metadata-standards` channel!
 - Familiarise yourself with:
   - The original MIxS paper
   - Current MIxS checklists and extensions
