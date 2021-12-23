@@ -1,8 +1,13 @@
 # Latest
 
-## 2021-10-22
+## 2021-12-23
+
+The next SPAAM project will be commencing in the new year! We will be establishing a working group for the development of a possible [MIxS checklist](https://gensc.org/mixs/) for ancient DNA and ancient metagenomics, to improve the reporting of metadata of samples and data. Check the events pages for more information!
+
+## 2021-11-22
 
 The Metadatathon is back for round 2! Please see the Event page for details about the AncientMetagenomeDir metadatathon happening on Dec 16th 2021!
+
 ## 2021-10-22
 
 Details about the next SPAAM community event is live! Please see the Event page for details about the AncientMetagenomeDir metadatathon happening on Nov. 5 2021.
@@ -29,7 +34,7 @@ Final icebreaker talk abstracts for [SPAAM2](spaam2/README) now avaliable.
 
 ## 2020-09-17
 
-Moved house! Our website and project pages are now hosted under the moniker: [spaam-community.github.io](https://spaam-community.github.io)! 
+Moved house! Our website and project pages are now hosted under the moniker: [spaam-community.github.io](https://spaam-community.github.io)!
 
 ## 2020-09-11
 
@@ -57,7 +62,7 @@ Please see details on the [SPAAM2](spaam2/README) for updated information.
 ## 2020-03-11
 
 * Fancy new logo!
-* Attendee and waiting lists are being sent out for SPAAM2. 
+* Attendee and waiting lists are being sent out for SPAAM2.
 * Additional programme and food information has been added to the respective pages of SPAAM2
 
 ## 2020-01-26

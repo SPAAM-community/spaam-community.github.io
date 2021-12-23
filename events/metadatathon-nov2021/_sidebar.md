@@ -4,6 +4,7 @@
 * [News](/news.md)
 * [Projects](/projects/README.md)
 * [Events](/events/README.md)
+    * [MInAS Working Group Jan 2021](/events/minas-working-group-jan2021 "MInAS Metadata Standards Working Group Meeting Jan 2021")
   * [Metadatathon Dec 2021](/events/metadatathon-nov2021/README.md#ancientmetagenomedir-metadatathon-dec-2021 "AncientMetagenomeDir Metadatathon Dec. 2021")
   * [Metadatathon Nov 2021](/events/metadatathon-nov2021/README.md#ancientmetagenomedir-metadatathon-nov-2021 "AncientMetagenomeDir Metadatathon Nov. 2021")
     * [About](/events/metadatathon-nov2021/README.md#about)
