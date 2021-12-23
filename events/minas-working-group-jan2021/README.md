@@ -63,3 +63,4 @@ In this meeting we will;
   - The original MIxS paper: [here](https://doi.org/10.1038/nbt.1823)
   - Relevant current MIxS checklists and extensions: [here](https://gensc.org/mixs/)
 - Start making a list of metadata fields you think would be useful for your work (based on existing or non-existing MIxS fields)
+- If you have any other questions (or don't wish to join Slack), please email the team lead James Fellows Yates (james_fellows_yates@eva.mpg.de)_
