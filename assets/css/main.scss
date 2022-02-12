@@ -1,0 +1,29 @@
+---
+# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
+# only main files contain this front matter, not partials.
+---
+
+@import url("https://fonts.googleapis.com/css?family=Varela+Round:300,400,600");
+
+$sidebar-bg-color: #732a82;
+$link-color: #732a82;
+//$sidebar-sticky: false;
+$root-font-family: -apple-system, 'Varela Round', Arial, sans-serif !default;
+
+@import "hydeout";
+
+.row {
+  display: flex;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#sidebar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}

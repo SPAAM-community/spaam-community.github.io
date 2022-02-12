@@ -1,19 +1,22 @@
-# SPAAM2
+---
+layout: page
+title: SPAAM2 - Travel
+---
 
-:warning: All information is out of date. SPAAM2 is now a virtual workshop!
+⚠️ All information is out of date. SPAAM2 is now a virtual workshop!
 
 It will be hosted via Zoom, a link will be sent out to all participants via 
 email.
 
 ## Travel Instructions
 
-~~> :warning: Important: SPAAM2 is NOT in the same place as ISBA9!~~
+> ~~⚠️ Important: SPAAM2 is NOT in the same place as ISBA9!~~
 
 ~~SPAAM2 will be held at the following address:~~
 
-~~Université Fédérale de Toulouse,  ~~
-~~41 allée Jules Guesde,  ~~
-~~Toulouse, FRANCE  ~~
+~~Université Fédérale de Toulouse,~~
+~~41 allée Jules Guesde,~~
+~~Toulouse, FRANCE~~
 
 ~~We will be in room **"Salle  du  Conseil" (RC01), Ground Floor, access through the main entrance door and to the left**. If you're unsure, the organisers will collect people at **the entrance door** from **8:30 AM**.~~
 

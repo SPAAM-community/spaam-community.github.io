@@ -1,8 +1,9 @@
-# SPAAM2
+---
+layout: page
+title: SPAAM2 - Food and Activities
+---
 
-## Food and Activities
-
-:warning: All information is out of date. SPAAM2 is now a virtual workshop!
+⚠️ All information is out of date. SPAAM2 is now a virtual workshop!
 
 ### Food
 
@@ -16,7 +17,7 @@
 
 ~~The menus will be announced one week before the workshop, and will be based on French cuisine, local availability and season.~~
 
-~~Note that you will be **personally responsible for payment at the restaurant** (each attendee will receive an individual receipt), the organisers have no responsibility or liability for this. Confirmation of your reservation will be made closer to the event. ~~
+~~Note that you will be **personally responsible for payment at the restaurant** (each attendee will receive an individual receipt), the organisers have no responsibility or liability for this. Confirmation of your reservation will be made closer to the event.~~
 
 ~~For those who wish to explore the area themselves, here are some lunch options in the area:~~
 
@@ -30,9 +31,9 @@
 
 * [~~Bars and restaurants~~](https://isba9.sciencesconf.org/resource/page/id/7)
 
-### Things to do in the area, and social activities 
+### Things to do in the area, and social activities
 
 ~~For more information, please see the ISBA9 website~~
 
-* [~~Visiting Toulouse](https://isba9.sciencesconf.org/resource/page/id/18)
+* [~~Visiting Toulouse~~](https://isba9.sciencesconf.org/resource/page/id/18)
 * [~~Food, Drinks and Fun~~](https://isba9.sciencesconf.org/resource/page/id/8)

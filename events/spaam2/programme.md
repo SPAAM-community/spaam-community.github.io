@@ -1,6 +1,7 @@
-# SPAAM2
-
-## Programme
+---
+layout: page
+title: SPAAM2 - Programme
+---
 
 ### Session Structure
 

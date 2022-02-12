@@ -1,0 +1,37 @@
+<div id="sidebar" style="bottom:0px;left=0px">
+
+  <header>
+  <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
+  {% unless page.url == "/" %}
+  <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
+  {% endunless %}
+  <img src="/assets/media/SPAAM-Logo-Full-Colour_ShortName.svg" alt="SPAAM Community" class="center" role="log"/>
+  </a>
+  </{% if page.layout == "index" %}h1{% else %}div{% endif %}>
+  <p class="lead">{{ site.description }}</p>
+  </header>
+  
+
+<a href="/about.html">About</a> 
+<a href="/category/news.html">News</a>
+<a href="/category/blog.html">Blog</a>
+<a href="/projects.html">Projects</a>
+<a href="/category/events.html">Events</a>
+<a href="/category/publications.html">Publications</a>
+<a href="/support-and-acknowledgements.html">Support and Acknowledgements</a>
+<a href="/code-of-conduct.html">Code of Conduct</a>
+
+  
+  </nav>
+  {% if site.version %}
+  <span class="site-version">Currently v{{ site.version }}</span>
+  {% endif %}
+  {% include sidebar-icon-links.html %}
+  
+  <p class='copyright'> &copy; {{ site.time | date: '%Y' }}.
+  <a href="{{ "/LICENSE.md" | relative_url }}">MIT License.</a>
+  </p>
+  </div>
+
+
+
