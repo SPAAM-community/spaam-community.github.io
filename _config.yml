@@ -1,32 +1,33 @@
 # Dependencies
-markdown:         kramdown
-highlighter:      rouge
+markdown: kramdown
+highlighter: rouge
 
 # Setup
-title:            SPAAM Community
-tagline:          Website for the SPAAM Community
-description:      |
-                  Standards, 
-                  Precautions, and 
-                  Advances in 
-                  Ancient 
-                  Metagenomics
-url:              https://spaam-community.github.io/spaam-community.github.io-dev/
-baseurl:          '/'
-                  # the optional subpath of your site, e.g. "/blog"
-                  # NB: This applies to all pages in your Jekyll site.
-                  # If you want to move just the blog index pages but keep
-                  # other pages at root, see the paginate_path and
-                  # sidebar_blog_link below.
+title: SPAAM Community
+tagline: Website for the SPAAM Community
+description: |
+  Standards, 
+  Precautions, and 
+  Advances in 
+  Ancient 
+  Metagenomics
+url: https://spaam-community.github.io/spaam-community.github.io-dev/
+baseurl:
+  "/"
+  # the optional subpath of your site, e.g. "/blog"
+  # NB: This applies to all pages in your Jekyll site.
+  # If you want to move just the blog index pages but keep
+  # other pages at root, see the paginate_path and
+  # sidebar_blog_link below.
 remote_theme: fongandrew/hydeout
 
 author:
-  name:           'SPAAM Community'
-  url:            https://twitter.com/spaam_community
+  name: "SPAAM Community"
+  url: https://twitter.com/spaam_community
 
-paginate:         5
+paginate: 5
 # paginate_path:    '/page:num'
-                    # Or '/blog/page:num' if you want to move your index pages
+# Or '/blog/page:num' if you want to move your index pages
 
 comments: false
 
@@ -42,3 +43,5 @@ sidebar_home_link: false
 #                                # set this to the root of the paginate_path
 #                                # to enable a separate blog link.
 permalink: pretty
+
+future: true

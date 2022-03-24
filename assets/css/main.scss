@@ -8,7 +8,7 @@
 $sidebar-bg-color: #732a82;
 $link-color: #732a82;
 //$sidebar-sticky: false;
-$root-font-family: -apple-system, 'Varela Round', Arial, sans-serif !default;
+$root-font-family: -apple-system, "Varela Round", Arial, sans-serif !default;
 
 @import "hydeout";
 
@@ -20,4 +20,39 @@ $root-font-family: -apple-system, 'Varela Round', Arial, sans-serif !default;
   display: block;
   margin-left: auto;
   margin-right: auto;
+}
+
+// Custom SPAAM Styling - all modified after sedaDNA society
+.button-join {
+  background: #843095;
+  border: 1px solid #843095;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.1) 1px 2px 4px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: inline-block;
+  line-height: 16px;
+  font-family: "Varela Round";
+  font-size: 14px;
+  font-weight: 800;
+  min-height: 40px;
+  outline: 0;
+  padding: 8px 16px;
+  margin: 2px 2px;
+  text-align: center;
+  text-rendering: geometricprecision;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: middle;
+}
+
+.button-join:hover,
+.button-join:active {
+  background-color: initial;
+  background-position: 0 0;
+  color: #232741;
+  border: 1px solid #843095;
 }

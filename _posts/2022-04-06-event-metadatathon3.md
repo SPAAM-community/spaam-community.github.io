@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AncientMetagenomeDir Metadatathon Dec. 2021"
+title: "AncientMetagenomeDir Metadatathon Apr. 2022"
 categories: Events
 sidebar_link: true
 ---
@@ -13,10 +13,10 @@ sidebar_link: true
 
 - [About](#about)
 - [Organisational Details](#organisational-details)
-  - [Who](#who)
-  - [Where](#where)
-  - [When](#when)
-  - [What](#what)
+	- [Who](#who)
+	- [Where](#where)
+	- [When](#when)
+	- [What](#what)
 - [Prerequisites](#prerequisites)
 
 <!-- /TOC -->
@@ -24,7 +24,7 @@ sidebar_link: true
 It's time for AncientMetagenomeDir to level-up! Currently metadata about published ancient metagenomic samples stored at a sample level. However, for researchers working in the field, to maximise the utility of the resource we need to get closer to the data we actually use in our day-to-day work. For this, we need to expand to library and sequencing metadata, and start building an ecosystem to utilise the metadata itself.
 
 As we are already utilising standardised _sample_ accession codes of data uploaded to public databases, we can already get a lot of this information automatically from the databases themselves, however some of this needs cleaning up, and there are some other bits of metadata that maybe useful not included in such repositories.
-
+jeky
 This event will consist of different components:
 
 - **Training** on how to use Git(Hub), and AncientMetagenomeDir
@@ -50,14 +50,14 @@ We will be meeting on [gather.town](https://gather.town/app/PlXjb0deog0B4JCq/spa
 
 ### When
 
-- Date: December 15th 2021
+- Date: April 6th 2022
 - Time:
   - Due to the (aspired) global nature of SPAAM, we will be running this over multiple timezones:
     - Asia-Pacific
     - Europe, Middle East, & Africa
     - Americas
 
-(All times following times are based on CET, please see [this page](https://www.timeanddate.com/worldclock/converter.html?iso=20211105T170000&p1=47&p2=329&p3=313&p4=2010&p5=1306&p6=1376&p7=3336&p8=198&p9=24) for conversion to various cities)
+(All times following times are based on CEST, please see [this page](https://www.timeanddate.com/worldclock/converter.html?iso=20220406T070000&p1=47&p2=329&p3=313&p4=2010&p5=1306&p6=1376&p7=3336&p8=198&p9=24) for conversion to various cities)
 
 | Date   | Time      | Event                                                               |
 | ------ | --------- | ------------------------------------------------------------------- |
