@@ -13,10 +13,10 @@ sidebar_link: true
 
 - [About](#about)
 - [Organisational Details](#organisational-details)
-	- [Who](#who)
-	- [Where](#where)
-	- [When](#when)
-	- [What](#what)
+  - [Who](#who)
+  - [Where](#where)
+  - [When](#when)
+  - [What](#what)
 - [Prerequisites](#prerequisites)
 
 <!-- /TOC -->
@@ -61,22 +61,22 @@ We will be meeting on [gather.town](https://gather.town/app/PlXjb0deog0B4JCq/spa
 
 | Date   | Time      | Event                                                               |
 | ------ | --------- | ------------------------------------------------------------------- |
-| Nov. 4 | 09:00 CET | **Group Check-in (Asia-Pacific): Welcome and training** (18:00 AUS) |
-| Nov. 4 | <...> CET | Metadata processing and programming!                                |
-| Nov. 4 | <...>     | Continue...                                                         |
-| Nov. 5 | 09:00 CET | **Check-in/out (EMEA/Asia-Pacific): Welcome and training**          |
-| Nov. 5 | 10:00 CET | Continue...                                                         |
-| Nov. 5 | 11:00 CET | Continue...                                                         |
-| Nov. 5 | 12:00 CET | **Lunch break (EMEA)**                                              |
-| Nov. 5 | 13:00 CET | Metadata processing and programming!                                |
-| Nov. 5 | 14:00 CET | **Check-in (Americas): Welcome and training**                       |
-| Nov. 5 | 15:00 CET | Metadata processing and programming!                                |
-| Nov. 5 | 16:00 CET | Continue...                                                         |
-| Nov. 5 | 17:00 CET | **Check-out (EMEA)**                                                |
-| Nov. 5 | 18:00 CET | Metadata processing and programming!                                |
-| Nov. 5 | 19:00 CET | Continue...                                                         |
-| Nov. 5 | 20:00 CET | Continue...                                                         |
-| Nov. 5 | 21:00 CET | **Check-out (Americas)**                                            |
+| Apr. 5 | 09:00 CET | **Group Check-in (Asia-Pacific): Welcome and training** (18:00 AUS) |
+| Apr. 5 | <...> CET | Metadata processing and programming!                                |
+| Apr. 5 | <...>     | Continue...                                                         |
+| Apr. 6 | 09:00 CET | **Check-in/out (EMEA/Asia-Pacific): Welcome and training**          |
+| Apr. 6 | 10:00 CET | Continue...                                                         |
+| Apr. 6 | 11:00 CET | Continue...                                                         |
+| Apr. 6 | 12:00 CET | **Lunch break (EMEA)**                                              |
+| Apr. 6 | 13:00 CET | Metadata processing and programming!                                |
+| Apr. 6 | 14:00 CET | **Check-in (Americas): Welcome and training**                       |
+| Apr. 6 | 15:00 CET | Metadata processing and programming!                                |
+| Apr. 6 | 16:00 CET | Continue...                                                         |
+| Apr. 6 | 17:00 CET | **Check-out (EMEA)**                                                |
+| Apr. 6 | 18:00 CET | Metadata processing and programming!                                |
+| Apr. 6 | 19:00 CET | Continue...                                                         |
+| Apr. 6 | 20:00 CET | Continue...                                                         |
+| Apr. 6 | 21:00 CET | **Check-out (Americas)**                                            |
 
 ### What
 
