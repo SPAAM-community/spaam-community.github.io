@@ -14,6 +14,7 @@ progressing the field.
 - [AncientMetagenomeDir](#ancientmetagenomedir)
 - [Ancient Metagenomics Labs](#ancient-metagenomics-labs)
 - [MINAS MIxS Checklist](#minas-mixs-checklist)
+- [SPAAM Summer Schools](#spaam-summer-schools)
 
 <!-- /TOC -->
 
@@ -62,3 +63,22 @@ for ancient DNA, provisionally called the 'MInAS' checklist
 
 The MInAS website can be found [here](https://minas.paleogenomics.eu/). Please
 join the SPAAM [Slack](/about.md) channel to join the working group.
+
+## SPAAM Summer Schools
+
+To help widely disseminate knowledge and expertise in ancient metagenomics,
+groups in the SPAAM community offer various training workshops.
+
+These will occur on either on a regular basis or as on-off events, so generally
+please keep an eye on the [events](/category/events/) page, as well as the various social
+media channels.
+
+We will list regular events here, as well as those that make their training
+material availble online for self learning:
+
+<img src="https://spaam-community.github.io/wss-summer-school/assets/images/logos/WSS-SPAAM-summerschool_logo_name.svg" alt="Intro to Ancient Metagenomics SummerSchool" width="200px" class="center">
+
+- (Planned) Annually
+- Website: https://spaam-community.github.io/wss-summer-school/
+- Material: https://spaam-community.github.io/wss-summer-school/
+- Supported by: [Werner Siemens-Stiftung](https://www.wernersiemens-stiftung.ch/), [Hans Knöll Institute](https://leibniz-hki.de/), [MHAAM](https://www.archaeoscience.org/), [MPI-EVA](https://www.eva.mpg.de/), [JSMC](https://www.jsmc-phd.de/)
