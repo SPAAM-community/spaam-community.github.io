@@ -1,15 +1,16 @@
 ---
 layout: post
-title: 'SPAAM4'
+title: "SPAAM4"
 categories: Events
 sidebar_link: true
 ---
+
 <img src="/assets/media/SPAAM4-Logo-Full-Colour.png" alt="SPAAM4 logo" width="400px" class="center">
 
 ## Table of Contents
 
-- [About](/events/spaam3/about)
-- [Programme - tba]
+- [About](#about)
+- [Programme](/events/spaam4/programme.md)
 - [Code of Conduct](/code-of-conduct)
 
 ## About
