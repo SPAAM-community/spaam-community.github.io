@@ -1,7 +1,11 @@
 ---
 layout: post
-title: "SPAAM4 Dates announced"
+title: "SPAAM4 Registration is open!"
 categories: News
 ---
 
-The SPAAM4 organisers are happy to announce the dates for the next SPAAM meeting in October 12-14 2022! Watch this space for any updates on registration!
+Registration and abstract submission for the SPAAM4 meeting are open!
+Register [here](https://tinyurl.com/SPAAM4Reg). Deadline is September 12, 2022
+Submit your abstract [here](https://tinyurl.com/SPAAM4Abs). Dealine is August 1, 2022
+
+SPAAM4 will take place  October 12-14 2022!
