@@ -26,9 +26,17 @@ Register [here](https://tinyurl.com/SPAAM4Reg)
 
 Deadline is September 12, 2022
 
+Registration required to attend. 
+
+As the number of participants is limited, priority will be given to early-stage researchers e.g. graduate students, postdocs, and new PIs.
+
 
 ## Abstract submission
 
-Submit an abstract [here](https://tinyurl.com/SPAAM4Abs)
+Submit your abstract [here](https://tinyurl.com/SPAAM4Abs)
 
 The deadline to submit is August 1, 2022
+
+The goal of this conference is to facilitate conversations inspired by the presentations, so we are encouraging talks about methods, challenges, or strategies that you'd like to discuss with a friendly community of peers. It's even fine if you don't have "results" and want to share a work in progress or something you're thinking about. Everyone is encouraged to submit an abstract! 
+
+We care a lot about making SPAAM a diverse place and want to especially encourage applications from people belonging to groups historically excluded from the sciences.
