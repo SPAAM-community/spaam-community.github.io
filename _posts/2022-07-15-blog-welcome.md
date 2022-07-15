@@ -2,7 +2,7 @@
 layout: post
 title: Welcome to the SPAAM Blog!
 categories: Blog
-date: 2021-07-15
+date: 2022-07-15
 authors:
   - Eleanor Joan Green
   - Shreya Ramachandran
