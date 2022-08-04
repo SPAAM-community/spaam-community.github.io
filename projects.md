@@ -78,7 +78,6 @@ material availble online for self learning:
 
 <img src="https://spaam-community.github.io/wss-summer-school/assets/images/logos/WSS-SPAAM-summerschool_logo_name.svg" alt="Intro to Ancient Metagenomics SummerSchool" width="200px" class="center">
 
-- (Planned) Annually
-- Website: https://spaam-community.github.io/wss-summer-school/
-- Material: https://spaam-community.github.io/wss-summer-school/
+- Annually
+- Website & Material: [https://spaam-community.github.io/wss-summer-school/](https://spaam-community.github.io/wss-summer-school/)
 - Supported by: [Werner Siemens-Stiftung](https://www.wernersiemens-stiftung.ch/), [Hans Knöll Institute](https://leibniz-hki.de/), [MHAAM](https://www.archaeoscience.org/), [MPI-EVA](https://www.eva.mpg.de/), [JSMC](https://www.jsmc-phd.de/)
