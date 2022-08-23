@@ -67,7 +67,6 @@ SPAAM4 Organisers:
   Nasreen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abby&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gunnar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pooja&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shreya
 </div>
 
-</br>
 
 **Nasreen Broomand**
 Nasreen is a PhD candidate in the Human Paleogenomics Lab at UC Santa Cruz. Her wide-ranging research interests include modern-day diseases and public health, evolutionary genomics of pathogens, the microbiome's role in the evolution of the human immune system, non-invasive DNA methods, research ethics, inclusive community-based participatory research, and the long-lasting impacts of colonialism on human health outcomes. In addition to her research, she is currently assisting the Monterey Bay Archaeological Archives in their NAGPRA compliance process and serves as co-president of UCSC Women in Science and Engineering in their fight for diversity and equity in the sciences.
