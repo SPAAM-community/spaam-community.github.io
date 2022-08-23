@@ -53,7 +53,7 @@ spaam4.organizers@gmail.com
 
 ## Conference Organizers 
 
-SPAAM2 Organisers:
+SPAAM4 Organisers:
 
 <!--- Stolen ugly hack but it works from spaam2 -->
 <div class="row" style="margin-right:20px;">
