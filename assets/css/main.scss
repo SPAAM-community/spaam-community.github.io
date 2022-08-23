@@ -56,3 +56,33 @@ $root-font-family: -apple-system, "Varela Round", Arial, sans-serif !default;
   color: #232741;
   border: 1px solid #843095;
 }
+
+// From sedaDNA.github.io
+
+.avatar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.avatar img {
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  object-fit: cover;
+  display: block;
+  margin: auto;
+}
+
+.member p {
+  text-align: center;
+  font-size: 0.7rem;
+  margin-bottom: 0;
+  display: block;
+}
+
+.member p:first-of-type {
+  font-size: 0.8rem;
+  color: #000;
+  font-weight: bold;
+}
