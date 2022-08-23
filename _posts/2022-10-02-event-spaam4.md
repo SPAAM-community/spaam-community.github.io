@@ -64,8 +64,6 @@ SPAAM4 Organisers:
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG1rWL389-q6SgK9TvJlN4UUldBJhOfuwYbf1FNKCM4w&s" alt="Shreya Ramachandran" width="90" height="83"> 
 </div>
 <div>
-  Nasreen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abby&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gunnar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pooja&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shreya
-</div>
 
 
 **Nasreen Broomand**
