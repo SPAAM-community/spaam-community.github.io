@@ -76,7 +76,7 @@ Nasreen is a PhD candidate in the Human Paleogenomics Lab at UC Santa Cruz. Her 
 Abby is a PhD candidate in Anthropology at the MicroARCH lab at Penn State University. Her research is on ancient systemic diseases and their associations with the human oral microbiome. In addition to her research, she works towards improving science education and outreach in the central Pennsylvania Area.
 
 **Gunnar Neumann**
-PhD student, Max Planck Institute for the Science of Human History, Department of Archaeogenetics
+PhD student, MPI for Evolutionary Anthropology. 
 
 **Pooja Swali**
 Pooja is currently a PhD student in the Skoglund Laboratory working to identify ancient pathogens in human remains to see how they have evolved through time.
