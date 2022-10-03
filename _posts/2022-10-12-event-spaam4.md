@@ -96,4 +96,4 @@ PhD student, MPI for Evolutionary Anthropology.
 Pooja is Currently a PhD student at the Francis Crick Institute, looking at how ancient pathogens have evolved in time, with a predominant focus on prehistoric Britain. Alongside her PhD, she is using her background in science communication to develop activities and communicate why we study ancient DNA to the general public. She is also dedicated to widen participation and increase equality and diversity in STEM subjects. 
 
 **Shreya Ramachandran**
-Human Genetics PhD Student at the University of Chicago.
+Shreya is a PhD candidate in the GenSCAPE lab at the University of Chicago, advised by Dr. Maanasa Raghavan. She is interested in microbial evolution across space and time, and studies ancient pathogenic bacteria and modern gut microbiomes in diverse populations. She is passionate about ethical community-based research, diversity and equity in science, academic writing pedagogy, and crossword puzzles. 
