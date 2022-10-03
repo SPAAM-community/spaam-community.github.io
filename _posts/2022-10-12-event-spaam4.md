@@ -18,9 +18,10 @@ sidebar_link: true
 
 The fourth installment of the Standards, Precautions, and Advances in Ancient Metagenomics (SPAAM4) will take place on 12-14 October 2022. The Zoom link will be sent out to registrants and presenters via email on October 10th. 
 
-\#SPAAM4
+For up to date information, follow us on twitter at @spaam_community and use the $SPAAM4 hashtag to keep up to date. 
 
 Who is attending? We have over 100 registrants from 6 continents. 
+
 <img src="/assets/media/SPAAM4_Map.png" alt="SPAAM4 logo" width="400px" class="center">
 
 **Official Conference Artist** 
