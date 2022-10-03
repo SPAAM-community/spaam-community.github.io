@@ -105,7 +105,7 @@ Abby is a PhD candidate in Anthropology at the MicroARCH lab at Penn State Unive
 PhD student, MPI for Evolutionary Anthropology. 
 
 **Pooja Swali**
-Pooja is currently a PhD student in the Skoglund Laboratory working to identify ancient pathogens in human remains to see how they have evolved through time.
+Pooja is Currently a PhD student at the Francis Crick Institute, looking at how ancient pathogens have evolved in time, with a predominant focus on prehistoric Britain. Alongside her PhD, she is using her background in science communication to develop activities and communicate why we study ancient DNA to the general public. She is also dedicated to widen participation and increase equality and diversity in STEM subjects. 
 
 **Shreya Ramachandran**
 Human Genetics PhD Student at the University of Chicago.
