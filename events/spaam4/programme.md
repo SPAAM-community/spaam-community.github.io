@@ -6,6 +6,6 @@ A finalized SPAAM4 Conference Program will be made available via email to all re
 
 For a preliminary program, please see the following PDF: 
 
-<embed src="assets/media/SPAAM4 Conference Book.pdf" width="800px" height="2100px" />
+<embed src="/assets/media/SPAAM4 Conference Book.pdf" width="800px" height="2100px" />
 
 
