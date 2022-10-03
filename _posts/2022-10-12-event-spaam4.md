@@ -9,7 +9,6 @@ sidebar_link: true
 
 - [About](#about)
 - [Registration](#registration)
-- [Abstract submission](#abstract-submission)
 - [Programme](/events/spaam4/programme)
 - [Code of Conduct](/code-of-conduct)
 - [Contact](#contact)
@@ -21,7 +20,11 @@ The fourth installment of the Standards, Precautions, and Advances in Ancient Me
 
 \#SPAAM4
 
+Who is attending? We have over 100 registrants from 6 continents. 
 <img src="/assets/media/SPAAM4_Map.png" alt="SPAAM4 logo" width="400px" class="center">
+
+**Official Conference Artist** 
+Returning once more, our official conference artist is Petra Korlevic, a staff scientist at the Sanger institutue. Follow her at @petrathepostdoc and keep an eye on twitter for SPAAM4 doodles! 
 
 ## Registration
 
