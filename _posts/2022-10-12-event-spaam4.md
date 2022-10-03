@@ -5,7 +5,7 @@ categories: Events
 sidebar_link: true
 ---
 
-<img src="/assets/media/SPAAM4-Logo-Full-Colour.png" alt="SPAAM4 logo" width="400px" class="center">
+<img src="/assets/media/SPAAM4_Map.png" alt="SPAAM4 logo" width="400px" class="center">
 
 ## Table of Contents
 
@@ -23,6 +23,8 @@ The fourth installment of the Standards, Precautions, and Advances in Ancient Me
 
 \#SPAAM4
 
+<p><img src="/assets/media/SPAAM3-final-L.png" alt="Summary poster of the SPAAM3 event" width="400px" class="center" /></p>
+
 
 ## Registration
 
@@ -34,6 +36,7 @@ Registration for SPAAM4 is currently CLOSED. Registration is required to attend.
 For more information, any questions, suggestions, ideas regarding SPAAM4, please contact us at 
 
 spaam4.organizers@gmail.com
+
 
 ## Conference Organizers 
 
