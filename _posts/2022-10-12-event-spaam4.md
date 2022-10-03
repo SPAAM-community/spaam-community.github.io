@@ -25,7 +25,7 @@ Who is attending? We have over 100 registrants from 6 continents.
 <img src="/assets/media/SPAAM4_Map.png" alt="SPAAM4 logo" width="400px" class="center">
 
 **Official Conference Artist** 
-Returning once more, our official conference artist is Petra Korlevic, a staff scientist at the Sanger institutue. Follow her at @petrathepostdoc and keep an eye on twitter for SPAAM4 doodles! 
+Returning once more, our official conference artist is Petra Korlevic, a staff scientist at the Sanger institutue. Follow her at [@petrathepostdoc](https://twitter.com/petrathepostdoc) and keep an eye on twitter for SPAAM4 doodles! 
 
 ## Registration
 
