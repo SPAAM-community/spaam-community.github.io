@@ -77,7 +77,7 @@ SPAAM4 Organisers:
     <div class="square">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG1rWL389-q6SgK9TvJlN4UUldBJhOfuwYbf1FNKCM4w&s" alt="Avatar" />
     </div>
-  <p>Shreya Ramchandran</p>
+  <p>Shreya Ramachandran</p>
   </div>
 </div>
 
