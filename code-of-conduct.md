@@ -79,7 +79,14 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 ### 8. Contact info
 
-SPAAM Conduct Officers
+SPAAM Safety Office
+
+- James Fellows Yates (EN/DE, MPI-EVA, Leipzig / Leibniz-HKI, Jena, james_fellows_yates@eva.mpg.de)
+- Aida Andrades Valtueña (CAT/ES/EN, MPI-EVA, Leipzig, aida_andrades@eva.mpg.de)
+- Shreya Ramachandran (EN/ES, University of Chicago, Chicago, shreya23@uchicago.edu)
+- Elizabeth 'Betsy' Nelson (EN/ES, Institut Pasteur, Paris, enelson@pasteur.fr)
+
+SPAAM4 Conduct Officers
 
 - Maria Zicos (m.zicos@nhm.ac.uk)
 - Gunnar Neumann (gunnar_neumann@eva.mpg.de)
