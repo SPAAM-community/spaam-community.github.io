@@ -6,9 +6,9 @@ sidebar_link: true
 
 ## TL;DR
 
-* All attendees and members of SPAAM are expected to be respectful towards all members regardless of background, and actively participate in creating a welcoming and friendly community. 
-* [Unacceptable](#4-unacceptable-behaviour) or illegal behaviour will not be tolerated and the organisers reserve the right to remove anyone violating the Code of Conduct from both in-person or online channels.
-* If at any point you feel unsafe or the code of conduct is violated, please contact any of the following [SPAAM members](#8-contact-info) who will deal with any issues respectfully and anonymously, as required.
+- All attendees and members of SPAAM are expected to be respectful towards all members regardless of background, and actively participate in creating a welcoming and friendly community.
+- [Unacceptable](#4-unacceptable-behaviour) or illegal behaviour will not be tolerated and the organisers reserve the right to remove anyone violating the Code of Conduct from both in-person or online channels.
+- If at any point you feel unsafe or the code of conduct is violated, please contact any of the following [SPAAM members](#8-contact-info) who will deal with any issues respectfully and anonymously, as required.
 
 > This is only for guidance, and the main body of this page is the enforceable document.
 
@@ -32,28 +32,28 @@ If you see someone who is making an extra effort to ensure our community is welc
 
 The following behaviours are expected and requested of all community members:
 
-  * Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-  * Exercise consideration and respect in your speech and actions.
-  * Attempt to respectfully resolve issues before conflicts arise.
-  * Refrain from demeaning, discriminatory, or harassing behaviour and speech.
-  * Be mindful of your surroundings and of your fellow participants. Alert organisers if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
-  * Remember that events may be shared with members of the public; please be respectful to all patrons of these locations.
+- Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
+- Exercise consideration and respect in your speech and actions.
+- Attempt to respectfully resolve issues before conflicts arise.
+- Refrain from demeaning, discriminatory, or harassing behaviour and speech.
+- Be mindful of your surroundings and of your fellow participants. Alert organisers if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+- Remember that events may be shared with members of the public; please be respectful to all patrons of these locations.
 
 ## 4. Unacceptable Behaviour
 
 The following behaviours are considered harassment and are unacceptable within our community, both in person and online:
 
-  * Violence, threats of violence or violent language directed against another person.
-  * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
-  * Posting or displaying sexually explicit or violent material.
-  * Posting or threatening to post other people's personally identifying information ("doxxing").
-  * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
-  * Inappropriate photography or recording.
-  * Inappropriate physical contact. You should have someone's consent before touching them.
-  * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
-  * Deliberate intimidation, stalking or following (online or in person).
-  * Advocating for, or encouraging, any of the above behaviour.
-  * Sustained disruption of community events, including talks and presentations.
+- Violence, threats of violence or violent language directed against another person.
+- Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
+- Posting or displaying sexually explicit or violent material.
+- Posting or threatening to post other people's personally identifying information ("doxxing").
+- Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
+- Inappropriate photography or recording.
+- Inappropriate physical contact. You should have someone's consent before touching them.
+- Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
+- Deliberate intimidation, stalking or following (online or in person).
+- Advocating for, or encouraging, any of the above behaviour.
+- Sustained disruption of community events, including talks and presentations.
 
 Furthermore, we will follow all legal guidance from the [European Commission on non-discrimination](https://fra.europa.eu/sites/default/files/fra_uploads/fra-2018-handbook-non-discrimination-law-2018_en.pdf)
 
@@ -81,13 +81,8 @@ This code of conduct and its related procedures also applies to unacceptable beh
 
 SPAAM Safety Office
 
-- James Fellows Yates (EN/DE, MPI-EVA, Leipzig / Leibniz-HKI, Jena, james_fellows_yates@eva.mpg.de)
 - Aida Andrades Valtueña (CAT/ES/EN, MPI-EVA, Leipzig, aida_andrades@eva.mpg.de)
 - Shreya Ramachandran (EN/ES, University of Chicago, Chicago, shreya23@uchicago.edu)
 - Elizabeth 'Betsy' Nelson (EN/ES, Institut Pasteur, Paris, enelson@pasteur.fr)
-
-SPAAM4 Conduct Officers
-
-- Maria Zicos (m.zicos@nhm.ac.uk)
-- Gunnar Neumann (gunnar_neumann@eva.mpg.de)
-- Nasreen Broomand (nbrooman@ucsc.edu)
+- Gunnar Neumann (DE/EN, MPI-EVA, Leipzig, gunnar_neumann@eva.mpg.de)
+- Nasreen Broomand (EN, UCSC, Santa Cruz, nbrooman@ucsc.edu)
