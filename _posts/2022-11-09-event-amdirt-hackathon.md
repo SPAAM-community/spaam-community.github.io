@@ -5,7 +5,7 @@ categories: Events
 sidebar_link: true
 ---
 
-<img src="https://spaam-community.github.io/AncientMetagenomeDir/assets/images/spaam-AncientMetagenomeDir_socialmedia.png" style="display:block;margin-left:auto;margin-right:auto;width=50%;" width="50%">
+<img src="https://spaam-community.github.io/AncientMetagenomeDir/assets/images/logos/spaam-AncientMetagenomeDir_socialmedia.png" style="display:block;margin-left:auto;margin-right:auto;width=50%;" width="50%">
 
 Members of the SPAAM Community are hosting a two day hackathon for the AncientMetagenomeDir companion tool - [AMDirT](https://github.com/SPAAM-community/AMDirT/).
 
