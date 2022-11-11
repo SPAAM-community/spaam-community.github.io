@@ -20,7 +20,7 @@ progressing the field.
 
 ## AncientMetagenomeDir
 
-<img src="https://spaam-community.github.io/AncientMetagenomeDir/assets/images/spaam-AncientMetagenomeDir_socialmedia.png" style="display:block;margin-left:auto;margin-right:auto;width=50%;" width="50%">
+<img src="https://spaam-community.github.io/AncientMetagenomeDir/assets/images/logos/spaam-AncientMetagenomeDir_socialmedia.png" style="display:block;margin-left:auto;margin-right:auto;width=50%;" width="50%">
 
 AncientMetagenomeDir is a community curated resource of lists of all published
 shotgun-sequenced ancient metagenome samples. It is primarily meant to act as a
