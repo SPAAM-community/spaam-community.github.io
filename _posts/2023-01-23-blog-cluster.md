@@ -9,9 +9,10 @@ tags: spaam, blog
 
 ## Don’t get flustered! What’s a cluster? The use of the word 'cluster' in palaeogenomics
 
+_by [James A. Fellows Yates](http://jafy.eu/) and [Åshild J. Vågene](https://twitter.com/AshAshild)_
+
 ## Introduction
 
-_by [James A. Fellows Yates](http://jafy.eu/) and [Åshild J. Vågene](https://twitter.com/AshAshild)_
 
 If you have ever listened to a talk in palaeogenomics, you may have noticed that the term 'cluster' is used a lot (or maybe you will after reading this post 😉).
 
