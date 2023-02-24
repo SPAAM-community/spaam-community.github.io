@@ -22,7 +22,7 @@ progressing the field.
 
 ## AncientMetagenomeDir
 
-<img src="https://spaam-community.github.io/AncientMetagenomeDir/assets/images/spaam-AncientMetagenomeDir_socialmedia.png" style="display:block;margin-left:auto;margin-right:auto;width=50%;" width="50%">
+<img src="https://spaam-community.github.io/AncientMetagenomeDir/assets/images/logos/spaam-AncientMetagenomeDir_socialmedia.png" style="display:block;margin-left:auto;margin-right:auto;width=50%;" width="50%">
 
 AncientMetagenomeDir is a community curated resource of lists of all published
 shotgun-sequenced ancient metagenome samples. It is primarily meant to act as a
@@ -67,8 +67,8 @@ group in ancient human population genetics to develop a more general checklist
 for ancient DNA, provisionally called the 'MInAS' checklist
 (Minimum INformation about Ancient Sequences').
 
-The MInAS website can be found [here](https://minas.paleogenomics.eu/). Please
-join the SPAAM [Slack](/about.md) channel to join the working group.
+The MInAS website can be found [here](https://mixs-minas.org/). Please
+join the SPAAM [Slack](/about.md) workspace and [#metadata-standards](https://spaam-community.slack.com/archives/C01BX7EM4EL) channel to join the working group.
 
 Contact person(s): [James Fellows Yates](mailto:james_fellows_yates@eva.mpg.de) and [Antonio Fernandez-Guerra](mailto:antonio.fernandez-guerra@sund.ku.dk)
 
