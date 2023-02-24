@@ -15,12 +15,14 @@ progressing the field.
 - [Ancient Metagenomics Labs](#ancient-metagenomics-labs)
 - [MINAS MIxS Checklist](#minas-mixs-checklist)
 - [SPAAM Summer Schools](#spaam-summer-schools)
+- [SPAAM Blog](#spaam-blog)
+- [SPAAMtisch](#spaamtisch)
 
 <!-- /TOC -->
 
 ## AncientMetagenomeDir
 
-<img src="https://spaam-community.github.io/AncientMetagenomeDir/assets/images/logos/spaam-AncientMetagenomeDir_socialmedia.png" style="display:block;margin-left:auto;margin-right:auto;width=50%;" width="50%">
+<img src="https://spaam-community.github.io/AncientMetagenomeDir/assets/images/spaam-AncientMetagenomeDir_socialmedia.png" style="display:block;margin-left:auto;margin-right:auto;width=50%;" width="50%">
 
 AncientMetagenomeDir is a community curated resource of lists of all published
 shotgun-sequenced ancient metagenome samples. It is primarily meant to act as a
@@ -33,6 +35,8 @@ development of the field of ancient metagenomics over time.
 - The repository containing sample lists is hosted on github
   [here](https://github.com/SPAAM-community/AncientMetagenomeDir)
 
+Contact person(s): [James Fellows Yates](mailto:james_fellows_yates@eva.mpg.de)
+
 ## Ancient Metagenomics Labs
 
 <img src="https://raw.githubusercontent.com/SPAAM-community/ancient-metagenomics-labs/main/_media/spaam-AncientMetagenomicLabs_logo.svg" width="100px" style="display:block;margin-left:auto;margin-right:auto;width=50%;">
@@ -42,6 +46,8 @@ metagenomics with an aim to help improve collaboration by making labs around
 the world more visible.
 
 The list of labs can be found [here](https://spaam-community.github.io/ancient-metagenomics-labs/)
+
+Contact person(s): [James Fellows Yates](mailto:james_fellows_yates@eva.mpg.de)
 
 ## MINAS MIxS Checklist
 
@@ -64,6 +70,8 @@ for ancient DNA, provisionally called the 'MInAS' checklist
 The MInAS website can be found [here](https://minas.paleogenomics.eu/). Please
 join the SPAAM [Slack](/about.md) channel to join the working group.
 
+Contact person(s): [James Fellows Yates](mailto:james_fellows_yates@eva.mpg.de) and [Antonio Fernandez-Guerra](mailto:antonio.fernandez-guerra@sund.ku.dk)
+
 ## SPAAM Summer Schools
 
 To help widely disseminate knowledge and expertise in ancient metagenomics,
@@ -81,3 +89,21 @@ material availble online for self learning:
 - Annually
 - Website & Material: [https://spaam-community.github.io/wss-summer-school/](https://spaam-community.github.io/wss-summer-school/)
 - Supported by: [Werner Siemens-Stiftung](https://www.wernersiemens-stiftung.ch/), [Hans Knöll Institute](https://leibniz-hki.de/), [MHAAM](https://www.archaeoscience.org/), [MPI-EVA](https://www.eva.mpg.de/), [JSMC](https://www.jsmc-phd.de/)
+
+Contact person(s): [James Fellows Yates](james_fellows_yates@eva.mpg.de) and [Christina Warinner](mailto:christina_warinner@eva.mpg.de)
+
+## SPAAM Blog
+
+The SPAAM community hosts a blog that hosts posts from members on a wide-range of ancient metagenomics topics, such as short deep-dive into technical methods, or summarising discussions of questions posted in the slack channel. You can request or post posts on the [#spaam-blog](https://spaam-community.slack.com/archives/C02D3DJP3MY) channel on the [SPAAM slack workspace](/about).
+
+You can see all blog posts [here](https://spaam-community.github.io/category/blog/).
+
+Contact person(s): [Ele Green](mailto:eg715@york.ac.uk) and [Shreya Ramachandran](mailto:shreya23@uchicago.edu)
+
+## SPAAMtisch
+
+The community has a monthly online get-together on the SPAAM gather.town space for those who want to discuss some topics of interest chosen by the community, and in an informal and stress-free way! No knowledge or preparation required!
+
+More information and topics can be found on the [#spaamtisch](https://spaam-community.slack.com/archives/C04B276G5D1) channel on the [SPAAM slack workspace](/about).
+
+Contact person(s): [Maria Lopopolo](maria.lopopolo1989@gmail.com)
