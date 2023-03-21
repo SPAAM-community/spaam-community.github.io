@@ -9,7 +9,9 @@ Many components also adopted from the [sedaDNA](https://sedadna.github.io) socie
 
 ## Quick Start - Fast
 
-Standard - edit via github, and wait for website to re-render to test):
+Standard - edit via github, and wait for website to re-render to test:
+
+> ⚠️ Not ideal as all changes are visible to the world before you have checked it works!
 
 - On this repository press <kbd>.</kdb> on your keyboard
 - Open the files you want to edit on the left-hand bar
@@ -24,6 +26,8 @@ Standard - edit via github, and wait for website to re-render to test):
 ## Quick Start - Best
 
 Using GitPod and with real-time rendering of website before pushing
+
+> 💡 Development and testing without pushing, and all without having to install anything on your laptop
 
 - Press the gitpod button on the repository (assuming extension installed)
 - Make a change
