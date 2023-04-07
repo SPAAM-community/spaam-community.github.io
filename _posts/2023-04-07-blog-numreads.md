@@ -8,8 +8,6 @@ authors:
 tags: spaam, blog
 ---
 
-## How deep do I screen? Read allocation when shotgun sequence screening for ancient pathogens
-
 _by [Kevin Daly](https://www.tcd.ie/Genetics/molpopgen/kevin_d.php)_
 
 
