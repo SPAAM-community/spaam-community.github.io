@@ -12,11 +12,14 @@ sidebar_link: true
 - [Programme](/events/spaam4/programme)
 - [Contact](#contact)
 
+<img src="/assets/media/spaam5_sticker_v3.png" alt="SPAAM5 sticker" width="400px" class="right">
 
 ## About
 
 The moment has arrived: we are excited to announce SPAAM5: The (in person) Gathering! 
 Join us on Sept. 12, 2023 in Tartu, Estonia for a day of flash talks, discussions, and fun, before ISBA10 even starts.
+
+
 
 ## Registration
 
