@@ -4,7 +4,7 @@ title: "SPAAM5"
 categories: Events
 sidebar_link: true
 ---
-
+<img align="right" src="/assets/media/spaam5_sticker_v3.png" alt="SPAAM5 sticker" width="300px" class="right">
 ## Table of Contents
 
 - [About](#about)
@@ -12,7 +12,7 @@ sidebar_link: true
 - [Programme](/events/spaam4/programme)
 - [Contact](#contact)
 
-<img align="right" src="/assets/media/spaam5_sticker_v3.png" alt="SPAAM5 sticker" width="300px" class="right">
+
 
 
 ## About
