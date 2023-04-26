@@ -5,7 +5,7 @@ categories: Events
 sidebar_link: true
 ---
 ## Table of Contents
-<img align="right" src="/assets/media/spaam5_sticker_v3.png" alt="SPAAM5 sticker" width="300px" class="right">
+<img align="right" src="/assets/media/spaam5_sticker_v3.png" alt="SPAAM5 sticker" width="200px" class="right">
 
 - [About](#about)
 - [Registration](#registration)
