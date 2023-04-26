@@ -12,7 +12,7 @@ sidebar_link: true
 - [Programme](/events/spaam4/programme)
 - [Contact](#contact)
 
-<img src="/assets/media/spaam5_sticker_v3.png" alt="SPAAM5 sticker" width="400px" class="right">
+<img src="/assets/media/spaam5_sticker_v3.png" alt="SPAAM5 sticker" width="300px" class="right">
 
 ## About
 
