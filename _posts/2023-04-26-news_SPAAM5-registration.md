@@ -7,16 +7,6 @@ sidebar_link: true
 
 ## Table of Contents
 
-<div class="Table of Contents">
-  <div class="site-branding-logo">
-    <img src="/assets/media/spaam5_sticker_v3.png" />
-  </div>
-</div>
-<div class="site-branding-text">
-  <h1 id="Here is some text">Site Title</h1>
-  <h2 id="site-tagline">Site Tagline</h2>
-</div>
-
 - [About](#about)
 - [Registration](#registration)
 - [Programme](/events/spaam4/programme)
