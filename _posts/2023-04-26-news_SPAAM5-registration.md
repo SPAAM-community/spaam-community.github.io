@@ -26,11 +26,11 @@ Join us on Sept. 12, 2023 in Tartu, Estonia for a day of flash talks, discussion
 
 To register for the in-person event, please fill out this form by June 16: <a href="[url](https://forms.gle/nJUMGzTmH6Knuy7R9)">[link text](https://forms.gle/nJUMGzTmH6Knuy7R9)</a>.  
 
-For selected participants, a 15 Euro registration fee will be collected prior to the start of the meeting and will cover lunch, coffee and refreshments. Registration waivers are available upon request: please contact spaam.events@gmail.com.
+For selected participants, a 15 Euro registration fee will be collected prior to the start of the meeting and will cover lunch, coffee and refreshments. Registration waivers are available upon request: please contact <a href="[url](spaam.events@gmail.com)">[link text](spaam.events@gmail.com)</a>.
 
 
 ## Contact
 
 For more information, any questions, suggestions, ideas regarding SPAAM5, please contact us at 
 
-spaam.events@gmail.com
+<a href="[url](spaam.events@gmail.com)">[link text](spaam.events@gmail.com)</a>
