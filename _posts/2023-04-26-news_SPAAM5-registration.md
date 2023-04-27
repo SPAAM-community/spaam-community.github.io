@@ -9,18 +9,12 @@ sidebar_link: true
 
 - [About](#about)
 - [Registration](#registration)
-- [Programme](/events/spaam4/programme)
 - [Contact](#contact)
-
-
-
 
 ## About
 
-The moment has arrived: we are excited to announce SPAAM5: The (in person) Gathering! 
+The moment has arrived: we are excited to announce SPAAM5: The (in person) Gathering!
 Join us on Sept. 12, 2023 in Tartu, Estonia for a day of flash talks, discussions, and fun, before ISBA10 even starts.
-
-
 
 ## Registration
 
@@ -28,9 +22,8 @@ To register for the in-person event, please fill out this form by June 16: <a hr
 
 For selected participants, a 15 Euro registration fee will be collected prior to the start of the meeting and will cover lunch, coffee and refreshments. Registration waivers are available upon request: please contact spaam.events@gmail.com.
 
-
 ## Contact
 
-For more information, any questions, suggestions, ideas regarding SPAAM5, please contact us at 
+For more information, any questions, suggestions, ideas regarding SPAAM5, please contact us at:
 
-spaam.events@gmail.com
+[spaam.events@gmail.com](mailto:spaam.events@gmail.com)
