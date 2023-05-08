@@ -27,3 +27,6 @@ For selected participants, a 15 Euro registration fee will be collected prior to
 For more information, any questions, suggestions, ideas regarding SPAAM5, please contact us at:
 
 [spaam.events@gmail.com](mailto:spaam.events@gmail.com)
+
+On behalf of the SPAAM5 Organizing Committee: 
+Sierra Blunt, Meriam Guellil, Alina Hiss, Alice Lee, Megan Michel, Zoe Pochon, Olivia Smith
