@@ -22,4 +22,4 @@ for day-to-day advice, help, brainstorming, news, networking, and socialising.
 to keep get involved and keep up-to-date!
 
 
-<i style="font-size: 10pt">The SPAAM Community is an affiliate of The International Society for Biomolecular Archaeology (ISBA), a Charitable Incorporated Organisation registered in England. ISBA provides infrastructural and financial support of the student-led activities of SPAAM.</i>
+<i style="font-size: 10pt">The SPAAM Community is an affiliate of [The International Society for Biomolecular Archaeology (ISBA)](https://isbarch.org), a Charitable Incorporated Organisation registered in England. ISBA provides infrastructural and financial support of the student-led activities of SPAAM.</i>
