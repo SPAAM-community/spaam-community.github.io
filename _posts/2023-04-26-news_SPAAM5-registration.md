@@ -23,13 +23,13 @@ To register for the in-person event, please fill out this form by June 16: <a hr
 
 ## Attendence
 
-For **the selected participants**, a 15 Euro registration fee should be sent via Paypal using the button below. 
+For **the selected participants**, a £15 registration fee should be sent via Paypal using the button below. 
 
 The fee will cover lunch, coffee and refreshments. Registration waivers are available upon request: please contact [spaam.events@gmail.com](spaam.events@gmail.com). 
 
 If you cannot pay with PayPal (recommended), fees can be collected prior to the start of the meeting in cash.
 
-> ℹ️ Fees submitted by this button will be sent to the account of the [International Society of Biomolecular Archaeology](https://isbarch.org) under which we are an affiliate and provide infrastructural support to SPAAM.
+> ℹ️ Fees submitted by this button will be sent to the account of the [International Society of Biomolecular Archaeology](https://isbarch.org) under which we are an affiliate and provide infrastructural support to SPAAM. The International Society for Biomolecular Archaeology (ISBA) is a Charitable Incorporated Organisation registered in England.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
     <input type="hidden" name="cmd" value="_s-xclick">
