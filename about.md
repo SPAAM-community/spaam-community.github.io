@@ -20,3 +20,6 @@ for day-to-day advice, help, brainstorming, news, networking, and socialising.
 - [**twitter**](http://twitter.com/spaam_community) for latest news, polls, and publications.
 
 to keep get involved and keep up-to-date!
+
+
+<i style="font-size: 10pt">The SPAAM Community is an affiliate of The International Society for Biomolecular Archaeology (ISBA), a Charitable Incorporated Organisation registered in England. ISBA provides infrastructural and financial support of the student-led activities of SPAAM.</i>
