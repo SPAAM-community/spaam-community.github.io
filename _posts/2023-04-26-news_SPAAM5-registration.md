@@ -45,6 +45,8 @@ If you cannot pay with PayPal (recommended), fees can be collected prior to the 
     <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+Do not select 'Non-student!'. The £15 is a flat fee for all participants. 
+
 > ℹ️ Note you will not immediately receive a confirmation _email_. Confirmations will come from the SPAAM5 organisers sporadically once they receive information from the ISBA treasurer at regular intervals.
 
 If you have any questions or issues please contact [spaam.events@gmail.com](spaam.events@gmail.com).
