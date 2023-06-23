@@ -104,8 +104,9 @@ Contact person(s): [Ele Green](mailto:eg715@york.ac.uk) and [Shreya Ramachandran
 
 The community has a monthly online get-together on the SPAAM gather.town space for those who want to discuss some topics of interest chosen by the community, and in an informal and stress-free way! No knowledge or preparation required!
 
+<img src="/assets/media/spaamtisch-logo.png" alt="spaamtisch-logo" width="200px" class="center">
+
 More information and topics can be found on the [#spaamtisch](https://spaam-community.slack.com/archives/C04B276G5D1) channel on the [SPAAM slack workspace](/about).
 
 Contact person(s): [Maria Lopopolo](maria.lopopolo1989@gmail.com)
 
-<img src="/assets/media/spaamtisch-logo.png" alt="Intro to Ancient Metagenomics SummerSchool" width="200px" class="center">
