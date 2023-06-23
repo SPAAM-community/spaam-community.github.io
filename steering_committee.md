@@ -16,6 +16,7 @@ We all are volunteers on the Steering Committee and we are really excited to wor
 The Steering Committee
 Members
 
+<img src="/assets/media/miriam.png" class="center" width="50%" >
 
 Miriam Bravo-Lopez (she/her) - Chair
 
