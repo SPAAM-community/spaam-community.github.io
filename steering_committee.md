@@ -9,7 +9,7 @@ Hello all!
 
 We, the Steering Committee of the SPAAM community would like to take a moment to introduce ourselves and give you all a quick idea of what we do.
 
-First, what is the Steering Committee? This is a new organizing committee that was formed last year during the SPAAM4 conference. It is intended to guide the SPAAM community in a more formalized way; this involves brainstorming and proposing new initiatives and helping new initiatives get off the ground (like the successfully  launched SPAAMtisch), increasing engagement and support for SPAAM members and events, helping with ongoing organization efforts, publicization of SPAAM, and sourcing funds for the maintenance of SPAAM.
+First, what is the Steering Committee? This is a new organizing committee that was formed last year during the [**SPAAM4**](https://spaam-community.github.io/events/2022/10/12/event-spaam4/) conference. It is intended to guide the SPAAM community in a more formalized way; this involves brainstorming and proposing new initiatives and helping new initiatives get off the ground (like the successfully  launched [**SPAAMtisch**](https://spaam-community.github.io/projects/#spaamtisch)), increasing engagement and support for SPAAM members and events, helping with ongoing organization efforts, publicization of SPAAM, and sourcing funds for the maintenance of SPAAM.
 
 We all are volunteers on the Steering Committee and we are really excited to work with all of you and help improve the SPAAM community.
 
@@ -20,44 +20,44 @@ Members
 Miriam Bravo-Lopez (she/her) - Chair
 
 I am a Mexican postdoctoral researcher at the International Laboratory for Human Genome Research (LIIGH), UNAM. My passion lies in exploring the evolutionary journey of ancient human pathogens using paleogenomics and paleoproteomics. I find solace hanging out with dogs, and when it comes to activities, running is my top pick.
-Contact: mbravo@liigh.unam.mx, @MiriamJBravo1 (twitter)
+Contact: mbravo@liigh.unam.mx, [**twitter**](http://twitter.com/MiriamJBravo1)
 
 
 Ian Light-Máka (he/him) - Secretary
 
 I am a PhD student at the Max-Planck-Institute for Infection Biology in Felix Key’s lab. I study ancient pathogen evolution and emergence through a molecular evolution lens! I am also very interested in bioethics and spend lots of time making art.
-Contact: light@mpiib-berlin.mpg.de, @ilight1542 (twitter)
+Contact: light@mpiib-berlin.mpg.de, [**twitter**](http://twitter.com/ilight1542)
 
 Gunnar Neumann (he/him) - Treasurer
 
 I am a PhD candidate in the department of archaeogenetics at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany. My main research focuses are ancient pathogens and pathogen evolution. I love going to the theater, dance and art exhibitions, traveling, hiking and gardening.
-Contact: gunnar_neumann@eva.mpg.de, @gunnar_neumann (Twitter)
+Contact: gunnar_neumann@eva.mpg.de, [**twitter**](http://twitter.com/gunnar_neumann)
 
 Betsy (Elizabeth Nelson) (she/her) - Treasurer
 
 I am a postdoc at the Institut Pasteur in Paris, France, and a faculty member of the Summer internship for INdigenous peoples in Genomics (SING) Canada. My research examines the emergence, evolution, and spread of infectious diseases in contexts marked by climatic, cultural, environmental, and socio-political transitions. I’m slightly obsessed with Logan Bean, dog-extraordinaire; But I also love making ceramics, gardening, hiking, and fishing. 
-Contact: enelson@pasteur.fr, @eanelson42 (Twitter)
+Contact: enelson@pasteur.fr, [**twitter**](http://twitter.com/eanelson42)
 
 Maria Lopopolo (she/her) - Social Media Team
 
-I am a PhD student at the Institut Pasteur, Paris, France. I am interested in applying interdisciplinary approaches to the study of past populations from a genetic, anthropological, and metagenomic   point of view. My passions include ballet training, reading novels, roller skating, and Italian food. Contact:  @Maria_Lopopolo (Twitter), maria.lopopolo@pasteur.fr (email).
+I am a PhD student at the Institut Pasteur, Paris, France. I am interested in applying interdisciplinary approaches to the study of past populations from a genetic, anthropological, and metagenomic   point of view. My passions include ballet training, reading novels, roller skating, and Italian food. Contact:  [**twitter**](http://twitter.com/Maria_Lopopolo), maria.lopopolo@pasteur.fr (email).
 
 
 Kadir Toykan Özdoğan (he/him)  - Social Media Team
 
 I am a PhD student, working on sedimentary ancient DNA to investigate the lifestyle of the Roman Limes people as a part of the “Constructing the Limes” project. I am based at the Utrecht University and Wageningen University & Research. I love basketball, beer-tasting and science fiction!
-Contact: k.t.ozdogan@uu.nl, @toykanozdogan (Twitter)
+Contact: k.t.ozdogan@uu.nl, [**twitter**](http://twitter.com/toykanozdogan)
 
 Aida Andrades Valtueña (she/her)  - Engagement Team
 
 I am a postdoc at the Max Planck Institute for Evolutionary Anthropology working in the Computational Pathogenomics group. My main interest lies in pathogen emergence, dispersal and ecology and exploring new computational methods to make the most out of our little data! I am a passionate gardener, dog lover and a knitter.  
-Contact: aida_andrades@eva.mpg.de, @aidaanva (Twitter), @aidanva (slack)
+Contact: aida_andrades@eva.mpg.de, [**twitter**](http://twitter.com/aidaanva), @aidanva (slack)
 
 
 Shreya Ramachandran (she/her) - Engagement Team
 
 I am a PhD student in Dr. Maanasa Raghavan’s lab at the University of Chicago. My research projects span a variety of topics in microbial evolution, from ancient pathogens to modern gut microbiomes. I am also interested in science teaching and communication. Outside of science I love trying new recipes, befriending other people’s dogs, and solving crossword puzzles (sometimes competitively). 
-Contact: shreya23@uchicago.edu, @srama23 (Twitter)
+Contact: shreya23@uchicago.edu, [**twitter**](http://twitter.com/srama23)
 
 Roles:
 Management team: formed by the chair and the secretary. Responsible for ensuring the committee functions smoothly and achieves its goals.
