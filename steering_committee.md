@@ -71,16 +71,22 @@ I am a PhD student in Dr. Maanasa Raghavan’s lab at the University of Chicago.
 Contact: shreya23@uchicago.edu, [**twitter**](http://twitter.com/srama23)
 
 Roles:
+
 Management team: formed by the chair and the secretary. Responsible for ensuring the committee functions smoothly and achieves its goals.
+
 Chair: leads meetings, sets agendas, moderates discussions and delegates tasks to volunteer members. It represents the SPAAM community in any official meetings or interviews. They are also responsible for having an overview of the various initiatives by maintaining a close communication with the treasurer, social media and engagement teams. 
+
 Allows for discussion around long-term topics, needs to be forward thinking on this end
 Secretary: Takes meeting minutes, sends them out via slack when they are ready, makes sure that assignments are noted. Organisational responsibilities (ie keeping google docs in order, annotating the minutes with required links, possibly doing same for the agenda ahead of time
 
 Treasurer team
+
 The treasurer team is responsible for managing the funds, for the communication related to funds and responsible for allocating funding to initiatives by serving as a line of communication between the organising committees and the Steering Committee. The treasurer team is also responsible to collect funds as well as finding grant opportunities to continue to fund SPAAM initiatives.
 
 Social media team
+
 The social media team is responsible for the outreach of the community, by tweeting, emailing as well as updating the website. Social media officers will announce new initiatives, conferences, papers and jobs that are relevant for the SPAAM community. They will also be responsible for maintaining the YouTube channel of the community.
 
 Engagement team
+
 The engagement officers are responsible for coming up with new initiatives (projects, summer schools, outreach activities, etc.) and propose them to the community. They will also oversee ongoing initiatives and provide support for them to reach their goals. They will ensure that the initiative is known in the community, as well as outside the community together with the media team. As well as suggesting potential funding sources for the initiative, by engaging with the treasurer team.
