@@ -4,7 +4,7 @@ title: Constitution
 sidebar_link: true
 ---
 
-<img src="/assets/media/SPAAM-Logo-Full-Colour.png" class="center" width="50%" >
+<img src="/assets/media/SPAAM-Logo-Full-Colour.png" class="center" width="100%" >
 
 # Quick Summary
 
