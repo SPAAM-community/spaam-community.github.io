@@ -1,6 +1,6 @@
 ---
 layout: page
-title: the Steering Committee
+title: Steering Committee
 sidebar_link: false
 ---
 
@@ -16,44 +16,54 @@ We all are volunteers on the Steering Committee and we are really excited to wor
 The Steering Committee
 Members
 
-<img src="/assets/media/miriam.png" class="center" width="50%" >
+<img src="/assets/media/Miriam.png" class="center" width="50%" >
 
 Miriam Bravo-Lopez (she/her) - Chair
 
 I am a Mexican postdoctoral researcher at the International Laboratory for Human Genome Research (LIIGH), UNAM. My passion lies in exploring the evolutionary journey of ancient human pathogens using paleogenomics and paleoproteomics. I find solace hanging out with dogs, and when it comes to activities, running is my top pick.
 Contact: mbravo@liigh.unam.mx, [**twitter**](http://twitter.com/MiriamJBravo1)
 
+<img src="/assets/media/Ian.png" class="center" width="50%" >
 
 Ian Light-Máka (he/him) - Secretary
 
 I am a PhD student at the Max-Planck-Institute for Infection Biology in Felix Key’s lab. I study ancient pathogen evolution and emergence through a molecular evolution lens! I am also very interested in bioethics and spend lots of time making art.
 Contact: light@mpiib-berlin.mpg.de, [**twitter**](http://twitter.com/ilight1542)
 
+<img src="/assets/media/Gunnar.png" class="center" width="50%" >
+
 Gunnar Neumann (he/him) - Treasurer
 
 I am a PhD candidate in the department of archaeogenetics at the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany. My main research focuses are ancient pathogens and pathogen evolution. I love going to the theater, dance and art exhibitions, traveling, hiking and gardening.
 Contact: gunnar_neumann@eva.mpg.de, [**twitter**](http://twitter.com/gunnar_neumann)
+
 
 Betsy (Elizabeth Nelson) (she/her) - Treasurer
 
 I am a postdoc at the Institut Pasteur in Paris, France, and a faculty member of the Summer internship for INdigenous peoples in Genomics (SING) Canada. My research examines the emergence, evolution, and spread of infectious diseases in contexts marked by climatic, cultural, environmental, and socio-political transitions. I’m slightly obsessed with Logan Bean, dog-extraordinaire; But I also love making ceramics, gardening, hiking, and fishing. 
 Contact: enelson@pasteur.fr, [**twitter**](http://twitter.com/eanelson42)
 
+<img src="/assets/media/maria.png" class="center" width="50%" >
+
 Maria Lopopolo (she/her) - Social Media Team
 
 I am a PhD student at the Institut Pasteur, Paris, France. I am interested in applying interdisciplinary approaches to the study of past populations from a genetic, anthropological, and metagenomic   point of view. My passions include ballet training, reading novels, roller skating, and Italian food. Contact:  [**twitter**](http://twitter.com/Maria_Lopopolo), maria.lopopolo@pasteur.fr (email).
 
+<img src="/assets/media/Kadir.png" class="center" width="50%" >
 
 Kadir Toykan Özdoğan (he/him)  - Social Media Team
 
 I am a PhD student, working on sedimentary ancient DNA to investigate the lifestyle of the Roman Limes people as a part of the “Constructing the Limes” project. I am based at the Utrecht University and Wageningen University & Research. I love basketball, beer-tasting and science fiction!
 Contact: k.t.ozdogan@uu.nl, [**twitter**](http://twitter.com/toykanozdogan)
 
+<img src="/assets/media/aida.png" class="center" width="50%" >
+
 Aida Andrades Valtueña (she/her)  - Engagement Team
 
 I am a postdoc at the Max Planck Institute for Evolutionary Anthropology working in the Computational Pathogenomics group. My main interest lies in pathogen emergence, dispersal and ecology and exploring new computational methods to make the most out of our little data! I am a passionate gardener, dog lover and a knitter.  
 Contact: aida_andrades@eva.mpg.de, [**twitter**](http://twitter.com/aidaanva), @aidanva (slack)
 
+<img src="/assets/media/shreya.png" class="center" width="50%" >
 
 Shreya Ramachandran (she/her) - Engagement Team
 
