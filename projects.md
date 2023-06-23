@@ -107,3 +107,5 @@ The community has a monthly online get-together on the SPAAM gather.town space f
 More information and topics can be found on the [#spaamtisch](https://spaam-community.slack.com/archives/C04B276G5D1) channel on the [SPAAM slack workspace](/about).
 
 Contact person(s): [Maria Lopopolo](maria.lopopolo1989@gmail.com)
+
+<img src="/assets/media/spaamtisch-logo.png" alt="Intro to Ancient Metagenomics SummerSchool" width="200px" class="center">
