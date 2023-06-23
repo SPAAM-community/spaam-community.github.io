@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Steering Committee
-sidebar_link: false
+sidebar_link: true
 ---
 
 
