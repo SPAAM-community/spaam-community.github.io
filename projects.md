@@ -58,7 +58,7 @@ and [Maxime Borry](mailto:maxime_borry@eva.mpg.de)
 
 ## Ancient Metagenomics Labs
 
-<img src="https://raw.githubusercontent.com/SPAAM-community/ancient-metagenomics-labs/main/_media/spaam-AncientMetagenomicLabs_logo.svg" width="100px" style="display:block;margin-left:auto;margin-right:auto;width=50%;">
+<img src="https://raw.githubusercontent.com/SPAAM-community/ancient-metagenomics-labs/main/_media/spaam-AncientMetagenomicLabs_logo.svg" width="300px" style="display:block;margin-left:auto;margin-right:auto;width=50%;">
 
 The SPAAM community also curate a list of known labs working in ancient
 metagenomics with an aim to help improve collaboration by making labs around
@@ -93,6 +93,11 @@ Contact person(s): [James Fellows Yates](mailto:james_fellows_yates@eva.mpg.de) 
 
 ## SPAAM Summer Schools
 
+
+<img
+src="https://spaam-community.github.io/wss-summer-school/assets/images/logos/WSS-SPAAM-summerschool_logo_name.svg"
+alt="Intro to Ancient Metagenomics SummerSchool" width="200px" style="display:block;margin-left:auto;margin-right:auto;width=50%;">
+
 To help widely disseminate knowledge and expertise in ancient metagenomics,
 groups in the SPAAM community offer various training workshops.
 
@@ -103,7 +108,6 @@ media channels.
 We will list regular events here, as well as those that make their training
 material availble online for self learning:
 
-<img src="https://spaam-community.github.io/wss-summer-school/assets/images/logos/WSS-SPAAM-summerschool_logo_name.svg" alt="Intro to Ancient Metagenomics SummerSchool" width="200px" class="center">
 
 - Annually
 - Website & Material: [https://spaam-community.github.io/wss-summer-school/](https://spaam-community.github.io/wss-summer-school/)
@@ -123,7 +127,9 @@ Contact person(s): [Ele Green](mailto:eg715@york.ac.uk) and [Shreya Ramachandran
 
 The community has a monthly online get-together on the SPAAM gather.town space for those who want to discuss some topics of interest chosen by the community, and in an informal and stress-free way! No knowledge or preparation required!
 
-<img src="/assets/media/spaamtisch-logo.png" alt="spaamtisch-logo" width="200px" class="center">
+<img src="https://spaam-community.github.io/assets/media/spaamtisch-logo.png"
+alt="spaamtisch logo"  width="200px"
+style="display:block;margin-left:auto;margin-right:auto;width=50%;">
 
 More information and topics can be found on the [#spaamtisch](https://spaam-community.slack.com/archives/C04B276G5D1) channel on the [SPAAM slack workspace](/about).
 
