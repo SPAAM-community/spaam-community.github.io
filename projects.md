@@ -11,7 +11,7 @@ progressing the field.
 
 <!-- TOC -->
 
-- [AncientMetagenomeDir](#ancientmetagenomedir)
+- [AncientMetagenomeDir and AMDirT](#ancientmetagenomedir-and-amdirt)
 - [Ancient Metagenomics Labs](#ancient-metagenomics-labs)
 - [MINAS MIxS Checklist](#minas-mixs-checklist)
 - [SPAAM Summer Schools](#spaam-summer-schools)
@@ -20,9 +20,12 @@ progressing the field.
 
 <!-- /TOC -->
 
-## AncientMetagenomeDir
+## AncientMetagenomeDir and AMDirT
 
-<img src="https://spaam-community.github.io/AncientMetagenomeDir/assets/images/logos/spaam-AncientMetagenomeDir_socialmedia.png" style="display:block;margin-left:auto;margin-right:auto;width=50%;" width="50%">
+<div>
+  <img src="https://spaam-community.github.io/AncientMetagenomeDir/assets/images/logos/spaam-AncientMetagenomeDir_socialmedia.png" style="vertical-align:middle;;display: inline-block;;margin-left:auto;margin-right:auto;width=45%;" width="45%">
+  <img src="https://github.com/SPAAM-community/AMDirT/raw/logo-fixes/assets/logo_rectangular.png" style="vertical-align:middle;;display: inline-block;;margin-left:auto;margin-right:auto;width=45%;" width="45%">
+</div>
 
 AncientMetagenomeDir is a community curated resource of lists of all published
 shotgun-sequenced ancient metagenome samples. It is primarily meant to act as a
@@ -30,12 +33,28 @@ reference guide to help point researchers toward any relevant public data for
 comparative analysis. It is hoped it will help researchers track growth and
 development of the field of ancient metagenomics over time.
 
-- The AncientMetagenomeDir website can be found
+AMDirT is a toolkit for interacting with the AncientMetagenomeDir metadata
+repository of ancient metagenomic samples and ancient microbial genomes. This
+tool provides ways to validate AncientMetagenomeDir submissions, explore and
+download sequencing data for ancient microbial and environmental (meta)genomes,
+and automatically prepare input samplesheets for a range of bioinformatic
+processing pipelines.
+
+For AncientMetagenomeDir:
+
+- Website can be found
   [here](https://spaam-community.github.io/AncientMetagenomeDir/).
-- The repository containing sample lists is hosted on github
+- Repository containing metadata lists is hosted on github
   [here](https://github.com/SPAAM-community/AncientMetagenomeDir)
 
+For AMDirT
+
+- A webhosted version can be found [here](https://spaam-community.github.io/AMDirT/)
+- Documentation can be found [here](https://amdirt.readthedocs.io/en/latest/)
+- Source code can be found [here](https://github.com/SPAAM-community/AMDirT)
+
 Contact person(s): [James Fellows Yates](mailto:james_fellows_yates@eva.mpg.de)
+and [Maxime Borry](mailto:maxime_borry@eva.mpg.de)
 
 ## Ancient Metagenomics Labs
 
