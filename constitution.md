@@ -40,7 +40,7 @@ All members of our community are obliged to follow our [**code of conduct**](htt
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behaviour.
 All members of SPAAM are required to agree and comply with this code of conduct. Safety officers are responsible for enforcing this code within the community, including dealing with any violations. We expect cooperation from all participants to help ensure a safe and positive environment for everybody. 
 
-To report any violations of this code of conduct within activities in the scope of the community, please reach out to our safety officers whose contacts can be found at the code of conduct. An anonymous reporting form is also available here. The actions taken by the safety officers would depend on the gravity of the action via a case by case assessment, and they are entitled to remove a member from the community should the behaviour in question be unacceptable to morality.
+To report any violations of this code of conduct within activities in the scope of the community, please reach out to our safety officers whose contacts can be found at the code of conduct. An anonymous reporting form is also available [**here**](https://forms.gle/9RqKZL8hXBxMvFLs6). The actions taken by the safety officers would depend on the gravity of the action via a case by case assessment, and they are entitled to remove a member from the community should the behaviour in question be unacceptable to morality.
 
 ## Initiatives 
 
