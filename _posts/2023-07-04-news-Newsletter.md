@@ -150,7 +150,7 @@ We have a new domain: **www.spaam-community.org**
 # **Wait for the next SPAAM 3 month-Newsletter!**
 
 
-[**Mailing list for Standards, Precautions and Advances in Ancient Metagenomics | SPAAM**](https://spaam-community.github.io/)
+[**Mailing list for Standards, Precautions and Advances in Ancient Metagenomics, SPAAM**](https://spaam-community.github.io/)
 
 - The list homepage [**here**](https://www.listserv.dfn.de/sympa/info/spaam-community) 
 
