@@ -14,14 +14,14 @@ We all are volunteers on the Steering Committee and we are really excited to wor
 
 # The Steering Committee Members
 
-<img src="../assets/media/Miriam.png" class="center" width="50%" >
+<img src="assets/media/Miriam.png" class="center" width="50%" >
 
 ## Miriam Bravo-Lopez (she/her) - Chair
 I am a Mexican postdoctoral researcher at the International Laboratory for Human Genome Research (LIIGH), UNAM. My passion lies in exploring the evolutionary journey of ancient human pathogens using paleogenomics and paleoproteomics. I find solace hanging out with dogs, and when it comes to activities, running is my top pick.
 Contact: mbravo@liigh.unam.mx, [**twitter**](http://twitter.com/MiriamJBravo1)
 
 
-<img src="../assets/media/Ian.png" class="center" width="50%" >
+<img src="assets/media/Ian.png" class="center" width="50%" >
 
 ## Ian Light-Máka (he/him) - Secretary
 I am a PhD student at the Max-Planck-Institute for Infection Biology in Felix Key’s lab. I study ancient pathogen evolution and emergence through a molecular evolution lens! I am also very interested in bioethics and spend lots of time making art.
