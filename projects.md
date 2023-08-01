@@ -93,7 +93,6 @@ Contact person(s): [James Fellows Yates](mailto:james_fellows_yates@eva.mpg.de) 
 
 ## SPAAM Summer Schools
 
-
 <img
 src="https://spaam-community.github.io/wss-summer-school/assets/images/logos/WSS-SPAAM-summerschool_logo_name.svg"
 alt="Intro to Ancient Metagenomics SummerSchool" width="200px" style="display:block;margin-left:auto;margin-right:auto;width=50%;">
@@ -108,7 +107,6 @@ media channels.
 We will list regular events here, as well as those that make their training
 material availble online for self learning:
 
-
 - Annually
 - Website & Material: [https://spaam-community.github.io/wss-summer-school/](https://spaam-community.github.io/wss-summer-school/)
 - Supported by: [Werner Siemens-Stiftung](https://www.wernersiemens-stiftung.ch/), [Hans Knöll Institute](https://leibniz-hki.de/), [MHAAM](https://www.archaeoscience.org/), [MPI-EVA](https://www.eva.mpg.de/), [JSMC](https://www.jsmc-phd.de/)
@@ -116,6 +114,8 @@ material availble online for self learning:
 Contact person(s): [James Fellows Yates](james_fellows_yates@eva.mpg.de) and [Christina Warinner](mailto:christina_warinner@eva.mpg.de)
 
 ## SPAAM Blog
+
+<img src="https://raw.githubusercontent.com/SPAAM-community/ancient-metagenomics-labs/main/_media/spaam-blog-logo-whitemode.svg" width="300px" style="display:block;margin-left:auto;margin-right:auto;width=50%;">
 
 The SPAAM community hosts a blog that hosts posts from members on a wide-range of ancient metagenomics topics, such as short deep-dive into technical methods, or summarising discussions of questions posted in the slack channel. You can request or post posts on the [#spaam-blog](https://spaam-community.slack.com/archives/C02D3DJP3MY) channel on the [SPAAM slack workspace](/about).
 
@@ -134,4 +134,3 @@ style="display:block;margin-left:auto;margin-right:auto;width=50%;">
 More information and topics can be found on the [#spaamtisch](https://spaam-community.slack.com/archives/C04B276G5D1) channel on the [SPAAM slack workspace](/about).
 
 Contact person(s): [Maria Lopopolo](maria.lopopolo1989@gmail.com)
-
