@@ -115,7 +115,7 @@ Contact person(s): [James Fellows Yates](james_fellows_yates@eva.mpg.de) and [Ch
 
 ## SPAAM Blog
 
-<img src="https://raw.githubusercontent.com/SPAAM-community/ancient-metagenomics-labs/main/_media/spaam-blog-logo-whitemode.svg" width="300px" style="display:block;margin-left:auto;margin-right:auto;width=50%;">
+<img src="https://github.com/SPAAM-community/spaam-community.github.io/raw/master/assets/media/spaam-blog-logo-whitemode.svg" width="200px" style="display:block;margin-left:auto;margin-right:auto;width=50%;">
 
 The SPAAM community hosts a blog that hosts posts from members on a wide-range of ancient metagenomics topics, such as short deep-dive into technical methods, or summarising discussions of questions posted in the slack channel. You can request or post posts on the [#spaam-blog](https://spaam-community.slack.com/archives/C02D3DJP3MY) channel on the [SPAAM slack workspace](/about).
 
