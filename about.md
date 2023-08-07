@@ -17,7 +17,9 @@ Please join us on our:
 - [**slack channel**](https://join.slack.com/t/spaam-community/shared_invite/zt-ei8pfw4m-XdBGTQwRaXWrEkd618YlhQ)
 for day-to-day advice, help, brainstorming, news, networking, and socialising.
 - [**mailing list**](https://www.listserv.dfn.de/sympa/info/spaam-community) for announcements, calls, and notices.
+- [**mastodon**](htthttps://genomic.social/@spaam_community) for latest news, polls, and publications.
 - [**twitter**](http://twitter.com/spaam_community) for latest news, polls, and publications.
+- [**youtube**](https://www.youtube.com/@spaam-community) for latest videos, lectures, recordings.
 
 to keep get involved and keep up-to-date!
 
