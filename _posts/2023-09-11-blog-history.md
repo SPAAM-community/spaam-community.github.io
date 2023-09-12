@@ -8,6 +8,8 @@ authors:
 tags: spaam, blog
 ---
 
+_by [James A. Fellows Yates](http://jafy.eu/)
+
 As one of the founders, I would like to give a short(ish) background of how the SPAAM community came to be. By doing so, I hope to provide some context and share the original motivation of establishing this community but also maybe provide inspiration to others in similar situations who might be interested in setting up their own similar communities.
 
 ## 2015-2016
