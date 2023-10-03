@@ -25,15 +25,23 @@ Standard - edit via github, and wait for website to re-render to test:
 
 ## Quick Start - Best
 
-Using GitPod and with real-time rendering of website before pushing
+Using GitPod and with real-time rendering of website before pushing.
 
 > 💡 Development and testing without pushing, and all without having to install anything on your laptop
 
-- Press the gitpod button on the repository (assuming extension installed)
+You will need to 'register' (i.e. login with your GitHub account) to GitPod to use it (default 10h a month, 50h a month if you do a bit of social media advertising).
+
+- Press the GitPod button on the repository (assuming [extension](https://www.gitpod.io/docs/configure/user-settings/browser-extension#browser-extension) installed)
 - Make a change
 - ~~Run `bundle exec jekyll serve`, open link~~ Edit: this will be run in the background now for you on GitPod startup!!
 - Press 'open preview' on prompt (or press Ports: 4000 in bottom right, then split pane icon in sidebar)
     - If you accidently close the preview or 'simple browser' tab, click ports, copy and the URL displayed, open the command pallette (e.g. `ctrl`/`cmd` + `shift` + `p`), type `simple browser` and then paste in the URL to the URL bar.
+- Save, commit, and sync (push) the changes once you're happy with them
+  - If you get an error talking about permissions, you likely need to:
+    - Go to GitPod.io > User Settings > [Integrations](https://gitpod.io/user/integrations)
+    - Press Triple dot menu to the right of the SPAAM-community repository > Edit Permissions > Tick: `user:email`, `public_repo`, and `repo` > Press Update
+    - When you get forwarded to the GitHub authorisation page **make sure** to 'Grant' permission to the organisation repository! > Press authorise
+    - Go back to GitPod text editor page, and try syncing/pushing again
 
 ## Quick start - Hardcore
 
