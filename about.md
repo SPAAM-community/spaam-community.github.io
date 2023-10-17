@@ -6,11 +6,17 @@ sidebar_link: true
 
 <img src="/assets/media/SPAAM-Logo-Full-Colour.svg" class="center" width="50%" >
 
-We are a community of researchers focusing on ancient metagenomics.
+_A community of researchers focusing on ancient metagenomics_
 
-We aim to openly [share](https://spaam-community.slack.com/) knowledge and experience to find on solutions to common challenges and obstacles that the field faces.
-We run various collaborative [projects](/projects) for the benefit of the whole community and to progress the field.
-We have various [events and a yearly workshop](/categories/events) with cycling organisation committees to improve networking.
+SPAAM's mission is to provide:
+
+- Scientific advancement (via community-driven projects to advance the field)
+- Training and support (through resources and courses to facilitate knowledge sharing and quality of research)
+- Networking (by facilitating collaborations and assisting each other)
+
+for the ancient metagenomics community.
+
+We achieve these aims with various [projects](/projects), and by regularly communciating with each other.
 
 Please join us on our:
 
