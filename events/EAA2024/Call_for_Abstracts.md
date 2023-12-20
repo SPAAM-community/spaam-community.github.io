@@ -14,5 +14,5 @@ Join our session **Building bridges: An open forum for Archaeology and Metagenom
 
 ### Our session flyer
 
-<img src="/assets/media/eaa_sessions_854_metagenomics.png" class="center" width="50%" >
+<img src="/workspace/spaam-community.github.io/assets/media/eaa_sessions_854_metagenomics.png" class="center" width="50%" >
 
