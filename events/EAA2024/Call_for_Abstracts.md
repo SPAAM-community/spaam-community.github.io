@@ -12,6 +12,6 @@ Join our session **Building bridges: An open forum for Archaeology and Metagenom
 * Submit you abstract [here](https://submissions.e-a-a.org/eaa2024/)
 * More info about submission can be found [here](https://www.e-a-a.org/EAA2024)
 
-### Our session flyier
-<img src="/workspace/spaam-community.github.io/assets/media/eaa_sessions_854_metagenomics.png" class="center" width="50%">
+### Our session flyer
+<img src="/assets/media/eaa_sessions_854_metagenomics.png" class="center" width="50%" >
 
