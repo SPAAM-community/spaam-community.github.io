@@ -4,7 +4,7 @@ title: EAA2024 Rome - Call for Abstracts
 ---
 
 ### Session info
-Showcase your groundbreaking work, join our session **Building bridges: An open forum for Archaeology and Metagenomics** where experts from Archaeology, Metagenomics and Computer Science can unite to showcase groundbreaking projects!
+Join our session **Building bridges: An open forum for Archaeology and Metagenomics** where experts from Archaeology, Metagenomics and Computer Science can unite to showcase groundbreaking projects!
 
 * How : Tandem or solo presentations
 * When: Abstracts due Feb 8th *(oral)* or Apr 8th *(poster)*
