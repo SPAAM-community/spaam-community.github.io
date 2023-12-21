@@ -1,6 +1,7 @@
 ---
 layout: post
-title: EAA2024 Rome - Call for Abstracts
+title: "EAA2024 Rome - Call for Abstracts"
+date: 2024-08-28-31
 categories: Events
 sidebar_link: true
 ---
@@ -16,5 +17,5 @@ Join our session **Building bridges: An open forum for Archaeology and Metagenom
 
 ### Our session flyer
 
-<img src="/workspace/spaam-community.github.io/assets/media/eaa_sessions_854_metagenomics.png" class="center" width="50%" >
+<img src="/assets/media/eaa_sessions_854_metagenomics.png" class="center" width="50%" >
 
