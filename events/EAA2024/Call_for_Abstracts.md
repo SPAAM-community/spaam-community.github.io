@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: EAA2024 Rome - Call for Abstracts
 categories: Events
 sidebar_link: true
