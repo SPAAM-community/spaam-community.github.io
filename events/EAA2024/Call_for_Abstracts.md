@@ -1,6 +1,8 @@
 ---
 layout: page
 title: EAA2024 Rome - Call for Abstracts
+categories: Events
+sidebar_link: true
 ---
 
 ### Session info
