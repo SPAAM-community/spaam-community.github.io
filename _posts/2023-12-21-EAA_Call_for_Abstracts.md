@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "EAA2024 Rome - Call for Abstracts"
+title: "EAA2024 Rome - Call for Abstracts - Archaeology and Metagenomics"
 date: 2024-08-28-31
 categories: Events
 sidebar_link: true
 ---
 
-### Session info
+### Session Archaeology and Metagenomics info
 Join our session **Building bridges: An open forum for Archaeology and Metagenomics** where experts from Archaeology, Metagenomics and Computer Science can unite to showcase groundbreaking projects!
 
 * How : Tandem or solo presentations
