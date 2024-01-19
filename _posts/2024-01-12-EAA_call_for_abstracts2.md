@@ -21,4 +21,4 @@ Submit your abstract [here](https://submissions.e-a-a.org/eaa2024/)
 
 More info about submission can be found [here](https://www.e-a-a.org/EAA2024)
 
-<img src="/workspace/spaam-community.github.io/assets/media/EAA_2024_pathogens.png" class="left" width="75%" >
+<img src="/assets/media/EAA_2024_pathogens.png" class="left" width="75%" >
