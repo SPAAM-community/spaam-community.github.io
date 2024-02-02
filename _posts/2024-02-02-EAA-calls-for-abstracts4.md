@@ -8,7 +8,9 @@ sidebar_link: true
 
 ### Sesssion - Appreciating the Archaeological Value of Preserved Faeces Using Multifaceted Methods
 Abstracts are open for the EAA in 2024. If you're into **old poop**, we have the session for you!
-**Session 1061: Appreciating the Archaeological Value of Preserved Faeces Using Multifaceted Methods**
+
+**Session 1061: Appreciating the Archaeological Value of Preserved Faeces Using Multifaceted Methods**.
+
 For more info, including the full session description, please see the attached flyer.
 Contact **Eleanor Green** on the spaam slack channel for more details on this session!
 
