@@ -25,27 +25,40 @@ Hybrid meeting:
 
 ## Preliminary Programme
 
-##### Conference starts at 9:30 (everyone is welcome to arrive from 9AM onwards)
-9:30  10:00 Introduction to the conference and eachother
-10:00	10:30	Activity 1
-10:30	10:50 Coffee break
+##### Conference starts at 9:30: 
+_(everyone is welcome to arrive from 9AM onwards)_
 
-##### Methodological talks
-10:50	11:10	Maxime Borry: A new approach to strain phasing for ancient DNA short reads
-11:10	11:50	Nikolay Oskolkov: On accurate filtering criteria in taxonomic classification analysis
-11:50	12:10	Aleksandra Laura Pach: Classifier Committee: Organizing the Toolbox of Ancient Metagenomics
-12:10	13:10 Lunch
+9:30-10:00 Introduction to the conference and eachother
 
-##### Case studies
-13:10	13:30	Maria Lopopolo: Implementing new methodological approaches to characterise the oral microbiome of Pre-colonial human populations of the Southern Cone of the Americas
-13:30	13:50	Sierra Blunt: The evolution of the oral microbiome during the Neolithic transition in present-day France 
-13:50	14:10	Zoe Pochon: Using aMeta for metagenomics analysis of ancient hosts: The medieval necropolis of Las Gobas as a case study
-14:10	14:30	Louis L'Hôte: Tracking ancient zoonosis across the domestication process
-14:30	14:50		Afternoon coffee break
+10:00-10:30	Activity 1
 
-##### Discussion session
+10:30-10:50 Coffee break
+
+##### Methodological talks:
+10:50-11:10	Maxime Borry: A new approach to strain phasing for ancient DNA short reads
+
+11:10-11:50	Nikolay Oskolkov: On accurate filtering criteria in taxonomic classification analysis
+
+11:50-12:10	Aleksandra Laura Pach: Classifier Committee: Organizing the Toolbox of Ancient Metagenomics
+
+12:10-13:10 Lunch
+
+##### Case studies:
+13:10-13:30	Maria Lopopolo: Implementing new methodological approaches to characterise the oral microbiome of Pre-colonial human populations of the Southern Cone of the Americas
+
+13:30-13:50	Sierra Blunt: The evolution of the oral microbiome during the Neolithic transition in present-day France 
+
+13:50-14:10	Zoe Pochon: Using aMeta for metagenomics analysis of ancient hosts: The medieval necropolis of Las Gobas as a case study
+
+14:10-14:30	Louis L'Hôte: Tracking ancient zoonosis across the domestication process
+
+14:30-14:50		Afternoon coffee break
+
+##### Discussion session:
 14:50	15:35	SPAAM Community	Topics: Disccusion groups
+
 15:35	15:40	ancientmetagenomics lab review and community news
+
 15:40	16:00	EAA session leads advertising sessions
 
 ## Abstract Submission
