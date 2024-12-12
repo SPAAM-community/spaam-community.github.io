@@ -51,7 +51,7 @@ For AncientMetagenomeDir:
 
 For AMDirT
 
-- A webhosted version can be found [here](https://spaam-community.github.io/AMDirT/)
+- A webhosted version can be found [here](https://spaam-community.github.io/amdirt/)
 - Documentation can be found [here](https://amdirt.readthedocs.io/en/latest/)
 - Source code can be found [here](https://github.com/SPAAM-community/AMDirT)
 
