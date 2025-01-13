@@ -20,7 +20,7 @@ While we cannot award any monetary rewards, everyone who contributed will be par
 
 07th February 2025 - 9 am to 5 pm CET.
 
-In case there are volunteers from other time zones than Europe, we are happy to accommodate this. So please welcome to join from all across the world.
+In case there are volunteers from other time zones than Europe, we are happy to accommodate this. We are please to welcome you from any part of the world and please reach out it you would like to host it in a different time zone.
 
 ## Where?
 
