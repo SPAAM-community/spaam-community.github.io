@@ -62,6 +62,7 @@ Adding content:
 - To allow display posts with a date in the future, put `future: true` in `_config.yml` (already set here by defualt)
 - To modify the general information about these pages, update the corresponding `.md` file under `category.md`
 - To update normal `page` files (e.g. about, board, membership), update the corresponding `.md` file at the root of this repository
+- To display a new page in the sidebar, add a new entry to `_includes/sidebar.html`
 - Add files/photos under `assets/` however please keep this 'tidy' in sub-folders and informative file names
 
 Notes on news posts:
