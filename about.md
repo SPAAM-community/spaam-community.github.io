@@ -21,7 +21,7 @@ We achieve these aims with various [projects](/projects), and by regularly commu
 Please join us on our:
 
 - [**archaeo.social**](https://matrix.to/#/#spaam:archaeo.social)
-for day-to-day advice, help, brainstorming, news, networking, and socialising. You can find instructions on how to join [**here**](https://www.isbarch.org/chat)
+for day-to-day advice, help, brainstorming, news, networking, and socialising. You can find instructions on how to join [**here**](https://www.isbarch.org/chat).
 - [**mailing list**](https://www.listserv.dfn.de/sympa/info/spaam-community) for announcements, calls, and notices.
 - [**mastodon**](htthttps://genomic.social/@spaam_community) for latest news, polls, and publications.
 - [**twitter**](http://twitter.com/spaam_community) for latest news, polls, and publications.
