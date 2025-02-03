@@ -30,8 +30,8 @@ for day-to-day advice, help, brainstorming, news, networking, and socialising. Y
 to keep get involved and keep up-to-date!
 
 
-You can also connect with fellow SPAAM members in dedicated language groups for [**Turkish**] (https://matrix.to/#/#spaam_turkish:archaeo.social), [**Italian**] (https://matrix.to/#/#spaam_spaamghetti:archaeo.social), and [**Spanish**] (https://matrix.to/#/#spaam_eSPAAMnol:archaeo.social). These spaces offer a great opportunity to discuss, collaborate, and network in your preferred language!
-We also have a dedicated group for members located in the [**Americas**] (https://matrix.to/#/#spaam_spaam-across-the-pond:archaeo.social). See you there!
+You can also connect with fellow SPAAM members in dedicated language groups for [**Turkish**](https://matrix.to/#/#spaam_turkish:archaeo.social), [**Italian**](https://matrix.to/#/#spaam_spaamghetti:archaeo.social), and [**Spanish**](https://matrix.to/#/#spaam_eSPAAMnol:archaeo.social). These spaces offer a great opportunity to discuss, collaborate, and network in your preferred language!
+We also have a dedicated group for members located in the [**Americas**](https://matrix.to/#/#spaam_spaam-across-the-pond:archaeo.social). See you there!
 
 
 If you have any questions or want to reach out for more info about our SPAAM community, [**the steering committee**](https://spaam-community.github.io/steering_committee/) is here to assist you.
