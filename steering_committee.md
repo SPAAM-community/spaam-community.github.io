@@ -9,11 +9,110 @@ Hello all!
 
 We, the Steering Committee of the SPAAM community would like to take a moment to introduce ourselves and give you all a quick idea of what we do.
 
-First, what is the Steering Committee? This is a new organizing committee that was formed last year during the [**SPAAM4**](https://spaam-community.github.io/events/2022/10/12/event-spaam4/) conference. It is intended to guide the SPAAM community in a more formalized way; this involves brainstorming and proposing new initiatives and helping new initiatives get off the ground (like the successfully  launched [**SPAAMtisch**](https://spaam-community.github.io/projects/#spaamtisch)), increasing engagement and support for SPAAM members and events, helping with ongoing organization efforts, publicization of SPAAM, and sourcing funds for the maintenance of SPAAM.
+The steering committee is intended to guide the SPAAM community in a more formalized way; this involves brainstorming and proposing new initiatives and helping new initiatives get off the ground (like the successfully  launched [**SPAAMtisch**](https://spaam-community.github.io/projects/#spaamtisch)), increasing engagement and support for SPAAM members and events, helping with ongoing organization efforts, publicization of SPAAM, and sourcing funds for the maintenance of SPAAM.
 
 We all are volunteers on the Steering Committee and we are really excited to work with all of you and help improve the SPAAM community.
 
-## The Steering Committee Members
+## Introducing the new Steering Committee
+
+<img src="/assets/media/aida.png" class="center" width="50%" >
+
+**Aida Andrades Valtueña (she/her)  - Chair**
+
+I am a postdoc at the Max Planck Institute for Evolutionary Anthropology working in the Computational Pathogenomics group. My main interest lies in pathogen emergence, dispersal and ecology and exploring new computational methods to make the most out of our little data! I am a passionate gardener, dog lover and a knitter.  
+
+Contact: aida_andrades@eva.mpg.de, [**X**](http://x.com/aidaanva), @aidanva (slack)
+
+
+
+
+<img src="/assets/media/Marcel_Keller_spaam.png" class="center" width="25%" >
+
+**Marcel Keller (he/him)  - Secretary**
+
+I am a research fellow based at the University of Basel and affiliated with the University of Tartu. I work primarily on pathogens and humans and I am particularly interested in the integration of different methodologies and disciplines to explore the past.
+Contact: marcel.keller@unibas.ch
+
+
+<img src="/assets/media/Maria_Lopopolo_spaam.png" class="center" width="25%" >
+
+**Maria Lopopolo (she/her)  - Secretary**
+
+I am a postdoctoral researcher at the Institut Pasteur, Paris, France. I am interested in applying interdisciplinary approaches to the study of past populations from a genetic, anthropological, and metagenomic point of view. My passions include ballet training, reading novels, roller skating, and Italian food.
+
+Contact: maria.lopopolo@pasteur.fr, [X](http://x.com/Maria_Lopopolo)
+
+
+<img src="/assets/media/Davide_Bozzi_spaam.png" class="center" width="25%" >
+
+**Davide Bozzi (he/him) - Engagement Team**
+
+Hello! My name is Davide! I am a PhD student in the field of Ancient Metagenomics with a focus on the study of the evolution of human pathogens. Originally from Italy, I am currently based at the University of Lausanne in Switzerland in the computational biology department. 
+
+Contact: davide.bozzi@unil.ch
+
+
+<img src="/assets/media/Sierra_Blunt_spaam.png" class="center" width="25%" >
+
+**Sierra Blunt (she/her) - Engagement Team**
+
+I’m a PhD candidate in Biological Anthropology at the University of Bordeaux at the PACEA lab. My research mainly focuses on investigating the evolution of ancient oral microbiomes in response to cultural and demographic changes in the past. In my free time, I enjoy cooking, hiking, gardening, knitting, and hanging out with my dog and two cats!
+
+Contact: sierra.blunt@u-bordeaux.fr
+
+
+<img src="/assets/media/Wenqin_Yu_spaam.png" class="center" width="25%" >
+
+**Wenqin Yu (he/him) - Engagement Team**
+
+I’m a PhD student in the school of life sciences at Peking University. My research primarily focus on analyzing the oral microbiome from ancient dental calculus and screening potential pathogens by metagenomics tools. I enjoy hiking, running, climbing and martial arts in my spare time.
+
+Contact: yuwq@stu.pku.edu.cn
+
+<img src="/assets/media/Anastasia_Brativnyk_spaam.jpg" class="center" width="25%" >
+
+**Anastasia_Brativnyk (she/her) - Engagement Team**
+
+I am a PhD student at the Ancient Genomics Laboratory at the Francis Crick Institute, London. My research focuses on paleoepidemiological analysis of metagenomes from Britain, aiming to understand the prevalence and dynamics of infectious diseases in the past. Outside of the lab, I enjoy bouldering, salsa, and roller skating. When I visit wintery landscapes, I happily trade these for ice skating, snowboarding, and cross-country skiing with my family dog.
+
+Contact: anastasia.brativnyk@crick.ac.uk
+
+
+<img src="/assets/media/Mariana_Escobar_spaam.JPG" class="center" width="25%" >
+
+**Mariana Escobar-Rodríguez (she/her) - Social Media Team**
+
+I’m a PhD student at the Microbial Paleogenomics unit of the Pasteur Institute, Paris. I am interested in investigating the impact of European colonization of the Southern Cone of the Americas from both a microbial and human genetics perspective.
+I enjoy cinema and Mexican pastries.
+
+Contact: mescobar@pasteur.fr
+
+<img src="/assets/media/Joanna_H_Bonczarowska_spaam.jpg" class="center" width="25%" >
+
+**Joanna H. Bonczarowska (she/her) - Social Media Team**
+
+I am a physical and molecular anthropologist interested in studying health and disease in past populations. My research integrates genomics of bacterial pathogens and multicellular parasites, human immuno- and population genetics, and osteological analysis of human skeletal remains. Currently, I am a postdoc at the Massilani Lab, Yale School of Medicine.
+
+Contact: joanna.bonczarowska@yale.edu
+
+<img src="/assets/media/Remi_Denise_spaam.png" class="center" width="25%" >
+
+**Rémi Denise (he/him) - Treasury Team**
+
+I’m a postdoctoral researcher at APC Microbiome Ireland, based at University College Cork. My primary focus is on bacteriophages in ancient metagenomes, particularly dental calculus and paleofeces. I’m particularly interested in developing and applying various methodologies to detect and discover bacteriophages in ancient samples, and exploring their interactions with their bacterial hosts.
+
+Contact: rdenise@ucc.ie
+
+<img src="/assets/media/Laura_Carrillo-Olivas_spaam.png" class="center" width="25%" >
+
+**Laura Carrillo-Olivas (she/her) - Treasury Team**
+
+I am a PhD candidate in the department of Biological Sciences at the International Laboratory for Human Genome Research (LIIGH), UNAM. Mexico. My main research focuses are ancient pathogens. I love traveling, watching anime and going to the theater.
+
+Contact: lcarrilloolivas@liigh.unam.mx, [X](http://x.com/LauCO32363528 )
+
+
+## Previous Steering Committee Members
 
 <img src="/assets/media/Miriam.png" class="center" width="50%" >
 
