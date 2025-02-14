@@ -46,7 +46,7 @@ The more people we have, the better the workload distribution there will be for 
 
 ### Where
 
-We will be meeting on [gather.town](https://gather.town/app/PlXjb0deog0B4JCq/spaam-community)! To learn how the platform works, please see the documentation [here](https://support.gather.town/help/movement-and-basics)
+We will be meeting on [gather.town](https://app.gather.town/app/gKwKhnaPw4B88ar7/spaam-community)! To learn how the platform works, please see the documentation [here](https://support.gather.town/help/movement-and-basics)
 
 ### When
 
