@@ -27,7 +27,7 @@ for day-to-day advice, help, brainstorming, news, networking, and socialising. Y
 - [**X**](http://X.com/spaam_community) for latest news, polls, and publications.
 - [**youtube**](https://www.youtube.com/@spaam-community) for latest videos, lectures, recordings.
 
-to keep get involved and keep up-to-date!
+to keep get involved and keep up-to-date!!
 
 
 You can also connect with fellow SPAAM members in dedicated language groups for [**Turkish**](https://matrix.to/#/#spaam_turkish:archaeo.social), [**Italian**](https://matrix.to/#/#spaam_spaamghetti:archaeo.social), and [**Spanish**](https://matrix.to/#/#spaam_eSPAAMnol:archaeo.social). These spaces offer a great opportunity to discuss, collaborate, and network in your preferred language!
