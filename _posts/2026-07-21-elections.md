@@ -13,5 +13,6 @@ This year, SPAAM will hold the first elections for the Steering Committee. Follo
 Since we are in the process of introducing the new system, this year we will elect only 3 new members into the Steering Committee. In 2027, the terms of 6 of the current members will end and we will start the regular election scheme.
  
 **Deadline: August 15th**
+
 Meet the candidates and cast your vote [here](/assets/media/SPAAM_Steering_Committee_elections2026_standalone.html).
 
