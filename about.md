@@ -27,7 +27,7 @@ Please join us on our:
 - [**Bluesky**](https://bsky.app/profile/spaam-community.bsky.social) for latest news, polls, and publications.
 - [**Youtube**](https://www.youtube.com/@spaam-community) for latest videos, lectures, recordings.
 
-to keep get involved and keep up-to-date!
+to keep get involved and keep up-to-date!!
 
 You can also connect with fellow SPAAM members in dedicated language groups for [**Turkish**](https://matrix.to/#/#spaam_turkish:archaeo.social), [**Italian**](https://matrix.to/#/#spaam_spaamghetti:archaeo.social), and [**Spanish**](https://matrix.to/#/#spaam_eSPAAMnol:archaeo.social). These spaces offer a great opportunity to discuss, collaborate, and network in your preferred language!
 We also have a dedicated group for members located in the [**Americas**](https://matrix.to/#/#spaam_spaam-across-the-pond:archaeo.social). See you there!
